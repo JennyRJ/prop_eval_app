@@ -30,6 +30,7 @@ import seaborn as sns
 import sklearn.datasets
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
+import pickle
 
 
 # In[5]:
@@ -379,7 +380,8 @@ import pickle
 
 # In[56]:
 
-
-pickle.dump(model, open('RegressorModel.pkl','wb'))
-
+#load model regressor on the pickle file
+pickle.dump(pipe, open('RegressorModel.pkl','wb'))
+#load model from the disk
+pipe =pickle.load(open('RegressorModel.pkl', 'rb'))
 

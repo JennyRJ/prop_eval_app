@@ -1,26 +1,31 @@
 import pandas as pd
 # from django.shortcuts import render_template
-from flask import Flask, render_template
+from flask import Flask, render_template,request
+import pickle
+import numpy as np
+
 
 app = Flask(__name__)
 data = pd.read_csv(r'C:\Users\JENINE\Desktop\MyApps\Property_Evaluation_WebApp\venv\Cleaned_data.csv')
-
-# df=pickle.load(open('RegressorModel.pkl','rb'))
-# # col=['stories_four','stories_one','stories_three','stories_two','lotsize','bedrooms','bathrms','driveway','recroom','fullbase','gashw','airco','garagepl','prefarea']
+pipe =pickle.load(open(r'C:\Users\JENINE\Desktop\MyApps\Property_Evaluation_WebApp\venv\RegressorModel.pkl', 'rb'))
 
 @app.route('/')
 def index():
     neighborhoods = sorted(data['Neighborhood'].unique())
-    return render_template("index.html",neighborhoods = neighborhoods)
-    print(neighborhoods)
+    return render_template("index.html", neighborhoods= neighborhoods)
+    
 
 
 @app.route('/predict', methods=['POST', 'GET'])
 def predict():
-    int_features = [int(x) for x in request.form.values()]
-    final=[np.array(int_features, dtype=float)]
-    prediction=model.predict(final)
-    output=round(prediction[0],2)
+    neighborhood = request.form.get("Neighborhood")
+    sqft = request.form.get("sq_mtrs")
+    bathrooms=request.form.get("Bathrooms")
+    bedrooms=request.form.get("Bedrooms")
+    
+    input = pd.DataFrame([[Neighborhood,Bathrooms,Bedrooms,sq_mtrs]],columns=['Neighborhood','Bathrooms','Bedrooms','sq_mtrs'])
+    prediction = pipe.predict(input)[0]
+
 
     return render_template('index.html', pred='The price of your dream house is {} USD Only.'.format(output))
 
