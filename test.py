@@ -11,23 +11,33 @@ pipe =pickle.load(open(r'C:\Users\JENINE\Desktop\MyApps\Property_Evaluation_WebA
 
 @app.route('/')
 def index():
-    neighborhoods = sorted(data['Neighborhood'].unique())
-    return render_template("index.html", neighborhoods= neighborhoods)
-    
+    locations = sorted(data['location'].unique())
+    return render_template("index.html", locations= locations)
 
-
-@app.route('/predict', methods=['POST', 'GET'])
+# @app.route('/predict', methods=['POST','GET'])
+# def predict():
+#     features = [float(x) for x in request.form.values()]
+#     prediction = model.predict([features])[0]
+#     return render_template('index.html', prediction=prediction)
+@app.route('/predict', methods=['POST'])
 def predict():
-    neighborhood = request.form.get("Neighborhood")
-    sqft = request.form.get("sq_mtrs")
+    location = request.form.get("location")
+    total_sqft = request.form.get("total_sqft")
     bathrooms=request.form.get("Bathrooms")
     bedrooms=request.form.get("Bedrooms")
+    print(location,total_sqft,bathrooms,bedrooms)
     
-    input = pd.DataFrame([[Neighborhood,Bathrooms,Bedrooms,sq_mtrs]],columns=['Neighborhood','Bathrooms','Bedrooms','sq_mtrs'])
+    
+
+  
+    
+    input = pd.DataFrame([[location,bathrooms,bedrooms,total_sqft]],columns=['location','total_sqft','Bedrooms','Bathrooms'])
     prediction = pipe.predict(input)[0]
+    
 
 
-    return render_template('index.html', pred='The price of your dream house is {} USD Only.'.format(output))
+    return str(prediction)
+    
 
 if __name__ == '__main__':
     app.run(debug=True, port=5001)
