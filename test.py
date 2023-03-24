@@ -6,8 +6,8 @@ import numpy as np
 
 
 app = Flask(__name__)
-data = pd.read_csv(r'C:\Users\JENINE\Desktop\MyApps\Property_Evaluation_WebApp\venv\Cleaned_data.csv')
-pipe =pickle.load(open(r'C:\Users\JENINE\Desktop\MyApps\Property_Evaluation_WebApp\venv\RegressorModel.pkl', 'rb'))
+data = pd.read_csv('Cleaned_data.csv')
+pipe =pickle.load(open('RegressorModel.pkl', 'rb'))
 
 @app.route('/')
 def index():
@@ -27,12 +27,12 @@ def predict():
     bedrooms=request.form.get("Bedrooms")
     print(location,total_sqft,bathrooms,bedrooms)
     
-    
 
   
-    
     input = pd.DataFrame([[location,bathrooms,bedrooms,total_sqft]],columns=['location','total_sqft','Bedrooms','Bathrooms'])
+    print(input.shape)
     prediction = pipe.predict(input)[0]
+    
     
 
 

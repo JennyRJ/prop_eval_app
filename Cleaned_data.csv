@@ -1,0 +1,1849 @@
+,location,Price,total_sqft,Bedrooms,Bathrooms
+0,"General Mathenge, Westlands",155000.0,4.0,4.0,4.0
+1,"Kilimani, Dagoretti North",100000.0,300.0,3.0,4.0
+2,other,75000.0,3.0,3.0,5.0
+3,"Kilimani, Dagoretti North",135000.0,227.0,3.0,4.0
+4,other,50000.0,3.0,3.0,2.0
+5,"Waiyaki Way, Westlands",150000.0,2.0,2.0,2.0
+6,other,100000.0,14.0,2.0,3.0
+7,"Westlands Area, Westlands",100000.0,186.0,3.0,3.0
+8,other,85000.0,4.0,4.0,2.0
+9,"Kilimani, Dagoretti North",65000.0,2.0,2.0,2.0
+10,other,95000.0,2.0,2.0,2.0
+11,other,75000.0,3.0,3.0,3.0
+12,"Kileleshwa, Dagoretti North",65000.0,3.0,3.0,2.0
+13,"Riverside, Westlands",85000.0,1.0,1.0,1.0
+14,"Riverside Drive, Riverside, Westlands",220000.0,3.0,3.0,3.0
+15,"Parklands, Westlands",120000.0,3.0,3.0,3.0
+16,"Waiyaki Way, Westlands",50000.0,0.0,0.0,1.0
+17,other,85000.0,2.0,2.0,2.0
+18,other,12000.0,90.0,1.0,1.0
+19,other,13000.0,0.0,0.0,2.0
+20,other,13000.0,2.0,2.0,1.0
+21,"Ruaka, Kiambaa",13000.0,0.0,0.0,1.0
+22,other,13000.0,1.0,1.0,1.0
+23,other,14000.0,2.0,2.0,1.0
+24,"Ruaka, Kiambaa",15000.0,2.0,2.0,1.0
+25,other,15000.0,45.0,1.0,1.0
+26,"Kiambu Road, Kiambu Road",15000.0,0.0,0.0,1.0
+27,other,15000.0,2.0,2.0,1.0
+28,other,16000.0,2.0,2.0,2.0
+29,other,16000.0,1.0,1.0,1.0
+30,other,16000.0,2.0,2.0,1.0
+31,other,16000.0,1.0,1.0,1.0
+32,other,16000.0,1.0,1.0,1.0
+33,other,98000.0,3.0,3.0,3.0
+34,"General Mathenge, Westlands",200000.0,3.0,3.0,3.0
+35,other,16000.0,1.0,1.0,1.0
+36,"Ruaka, Kiambaa",16000.0,1.0,1.0,2.0
+37,other,17000.0,1.0,1.0,2.0
+38,other,17000.0,1.0,1.0,1.0
+39,other,17000.0,2.0,2.0,2.0
+40,"Ruaka, Kiambaa",17000.0,2.0,2.0,2.0
+41,other,17000.0,2.0,2.0,2.0
+42,other,17500.0,1.0,1.0,2.0
+43,other,18000.0,2.0,2.0,2.0
+44,other,18000.0,1.0,1.0,1.0
+45,other,18000.0,1.0,1.0,1.0
+46,other,19000.0,180.0,1.0,1.0
+47,other,20000.0,1.0,1.0,2.0
+48,other,20000.0,2023.0,1.0,1.0
+49,other,20000.0,2.0,2.0,2.0
+50,"Kilimani, Dagoretti North",70000.0,2.0,2.0,2.0
+51,other,75000.0,125.0,2.0,2.0
+52,"Limuru Road, Ruaka, Kiambaa",20000.0,4000.0,1.0,1.0
+53,other,20000.0,2.0,2.0,2.0
+54,"Ruaka, Kiambaa",20000.0,1.0,1.0,1.0
+55,other,20000.0,200.0,1.0,1.0
+56,other,20000.0,2.0,2.0,2.0
+57,other,20000.0,1200.0,1.0,1.0
+58,"Limuru Road, Ruaka, Kiambaa",20000.0,4000.0,1.0,1.0
+59,other,20000.0,2.0,2.0,2.0
+60,other,20000.0,2.0,2.0,2.0
+61,other,22000.0,2.0,2.0,2.0
+62,other,22000.0,2.0,2.0,1.0
+63,other,22000.0,2.0,2.0,1.0
+64,"Riverside, Westlands",280000.0,3.0,3.0,2.0
+65,other,18000.0,1.0,1.0,1.0
+66,"Limuru Road, Ruaka, Kiambaa",23000.0,4000.0,1.0,1.0
+67,other,23000.0,2.0,2.0,2.0
+68,other,24000.0,2.0,2.0,2.0
+69,other,24000.0,3.0,3.0,2.0
+70,other,24000.0,2.0,2.0,2.0
+71,other,25000.0,3.0,3.0,2.0
+72,"Limuru Road, Ruaka, Kiambaa",25000.0,4000.0,2.0,2.0
+73,"Ruaka, Kiambaa",25000.0,1.0,1.0,1.0
+74,other,25000.0,2.0,2.0,2.0
+75,other,25000.0,2.0,2.0,2.0
+76,other,25000.0,2.0,2.0,1.0
+77,other,25000.0,2.0,2.0,2.0
+78,"Ruaka, Kiambaa",25000.0,1.0,1.0,2.0
+79,other,100000.0,3.0,3.0,3.0
+80,"Ruaka, Kiambaa",25000.0,1.0,1.0,2.0
+81,"Limuru Road, Ruaka, Kiambaa",25000.0,1012.0,1.0,1.0
+82,other,25000.0,2.0,2.0,1.0
+83,other,26000.0,1.0,1.0,2.0
+84,other,27000.0,18.0,1.0,1.0
+85,"Ruaka, Kiambaa",28000.0,2.0,2.0,2.0
+86,other,28000.0,2.0,2.0,2.0
+87,other,28000.0,100.0,1.0,1.0
+88,other,28000.0,2.0,2.0,2.0
+89,"Limuru Road, Ruaka, Kiambaa",28000.0,4047.0,2.0,2.0
+90,other,28000.0,2.0,2.0,2.0
+91,other,28000.0,200.0,2.0,2.0
+92,other,28000.0,120.0,2.0,2.0
+93,other,28000.0,2.0,2.0,2.0
+94,other,200000.0,240.0,5.0,5.0
+95,"Limuru Road, Ruaka, Kiambaa",28000.0,2.0,2.0,2.0
+96,other,30000.0,1.0,1.0,1.0
+97,other,30000.0,35.0,2.0,1.0
+98,other,30000.0,9.0,2.0,2.0
+99,other,30000.0,1.0,1.0,1.0
+100,"Kileleshwa, Dagoretti North",30000.0,0.0,0.0,2.0
+101,"Limuru Road, Ruaka, Kiambaa",30000.0,125.0,2.0,2.0
+102,"Limuru Road, Ruaka, Kiambaa",30000.0,2.0,2.0,2.0
+103,other,30000.0,1.0,1.0,1.0
+104,other,30000.0,2500.0,3.0,3.0
+105,other,30000.0,1012.0,2.0,3.0
+106,other,30000.0,1.0,1.0,1.0
+107,other,30000.0,2.0,2.0,2.0
+108,"Limuru Road, Ruaka, Kiambaa",30000.0,6071.0,1.0,1.0
+109,other,30000.0,3.0,3.0,2.0
+110,other,175000.0,150.0,2.0,2.0
+111,"Riverside Drive, Riverside, Westlands",145000.0,3.0,3.0,5.0
+112,other,30000.0,2.0,2.0,2.0
+113,other,30000.0,2.0,2.0,2.0
+114,other,30000.0,2.0,2.0,2.0
+115,"Ruaka, Kiambaa",32000.0,2.0,2.0,2.0
+116,other,32000.0,1.0,1.0,1.0
+117,"Limuru Road, Ruaka, Kiambaa",32500.0,3035.0,2.0,2.0
+118,other,33000.0,105.0,3.0,2.0
+119,other,33000.0,3.0,3.0,2.0
+120,other,33500.0,3.0,3.0,3.0
+121,"Ruaka, Kiambaa",35000.0,125.0,3.0,2.0
+122,other,35000.0,2.0,2.0,3.0
+123,other,35000.0,3.0,3.0,2.0
+124,"Kileleshwa, Dagoretti North",35000.0,1.0,1.0,2.0
+125,"Kiambu Road, Kiambu Road",35000.0,120.0,1.0,1.0
+126,other,130000.0,2.0,2.0,2.0
+127,other,35000.0,80.0,1.0,1.0
+128,other,35000.0,2.0,2.0,2.0
+129,other,35000.0,3.0,3.0,2.0
+130,other,35000.0,2.0,2.0,2.0
+131,other,35000.0,300.0,2.0,2.0
+132,"Limuru Road, Ruaka, Kiambaa",35000.0,130.0,2.0,2.0
+133,other,35000.0,2.0,2.0,2.0
+134,other,35000.0,55.0,2.0,1.0
+135,other,35000.0,2500.0,3.0,2.0
+136,other,35000.0,2.0,2.0,2.0
+137,other,35000.0,0.0,0.0,2.0
+138,other,35000.0,3.0,3.0,2.0
+139,other,35000.0,3.0,3.0,2.0
+140,other,35000.0,3.0,3.0,3.0
+141,other,90000.0,250.0,3.0,3.0
+142,other,100000.0,3.0,3.0,3.0
+143,"Limuru Road, Ruaka, Kiambaa",35000.0,125.0,2.0,1.0
+144,other,35000.0,186.0,2.0,2.0
+145,other,35000.0,2000.0,2.0,2.0
+146,"Westlands Area, Westlands",35000.0,2000.0,1.0,1.0
+147,other,35000.0,2.0,2.0,2.0
+148,other,35000.0,3.0,3.0,2.0
+149,other,35750.0,85.0,2.0,2.0
+150,other,37000.0,2.0,2.0,2.0
+151,other,38000.0,2.0,2.0,2.0
+152,"Ruaka, Kiambaa",38000.0,2.0,2.0,2.0
+153,other,38000.0,2.0,2.0,2.0
+154,other,38000.0,3.0,3.0,2.0
+155,other,38000.0,45.0,2.0,2.0
+156,"Ruaka, Kiambaa",38000.0,3.0,3.0,2.0
+157,"Riverside Drive, Riverside, Westlands",38000.0,2.0,2.0,1.0
+158,other,240000.0,3.0,3.0,2.0
+159,other,85000.0,3.0,3.0,3.0
+160,other,38000.0,1.0,1.0,1.0
+161,"Ruaka, Kiambaa",38000.0,2.0,2.0,2.0
+162,other,39000.0,2.0,2.0,1.0
+163,other,40000.0,12000.0,2.0,2.0
+164,other,40000.0,120.0,3.0,2.0
+165,other,40000.0,2500.0,3.0,3.0
+166,other,40000.0,2500.0,3.0,3.0
+167,other,40000.0,1.0,1.0,1.0
+168,other,40000.0,2.0,2.0,2.0
+169,other,40000.0,2.0,2.0,2.0
+170,other,40000.0,3.0,3.0,1.0
+171,other,40000.0,2500.0,3.0,2.0
+172,other,40000.0,2.0,2.0,2.0
+173,other,40000.0,2.0,2.0,2.0
+174,other,40000.0,2.0,2.0,2.0
+175,"kilimani, kilimani, Kilimani, Dagoretti North",40000.0,1.0,1.0,1.0
+176,"Parklands, Westlands",40000.0,3.0,3.0,1.0
+177,other,40000.0,2.0,2.0,2.0
+178,other,40000.0,90.0,2.0,2.0
+179,other,40000.0,2.0,2.0,2.0
+180,other,40000.0,2.0,2.0,1.0
+181,other,40000.0,51.0,3.0,2.0
+182,"Ruaka, Kiambaa",40000.0,100.0,2.0,2.0
+183,"Limuru Road, Ruaka, Kiambaa",40000.0,4000.0,2.0,2.0
+184,"Limuru Road, Ruaka, Kiambaa",40000.0,2.0,2.0,2.0
+185,"Limuru Road, Ruaka, Kiambaa",40000.0,3.0,3.0,2.0
+186,"Limuru Road, Ruaka, Kiambaa",40000.0,2024.0,3.0,2.0
+187,other,40000.0,2.0,2.0,1.0
+188,other,40000.0,2.0,2.0,2.0
+189,"Ruaka, Kiambaa",40000.0,2.0,2.0,2.0
+190,other,40000.0,1.0,1.0,1.0
+191,other,40000.0,2.0,2.0,2.0
+192,other,40000.0,3.0,3.0,2.0
+193,"Ruaka, Kiambaa",40000.0,2.0,2.0,2.0
+194,other,40000.0,3.0,3.0,2.0
+195,"Ruaka, Kiambaa",42000.0,3.0,3.0,2.0
+196,other,42500.0,35.0,2.0,1.0
+197,other,43000.0,2.0,2.0,2.0
+198,other,43000.0,2.0,2.0,3.0
+199,other,43000.0,2.0,2.0,2.0
+200,other,43500.0,2.0,2.0,2.0
+201,other,44000.0,2.0,2.0,1.0
+202,other,44000.0,2.0,2.0,4.0
+203,other,45000.0,1.0,1.0,1.0
+204,"Limuru Road, Ruaka, Kiambaa",45000.0,20235.0,2.0,2.0
+205,other,45000.0,3.0,3.0,2.0
+206,other,45000.0,95.0,2.0,2.0
+207,other,45000.0,4500.0,2.0,2.0
+208,"Kileleshwa, Dagoretti North",45000.0,2.0,2.0,2.0
+209,"Ruaka, Kiambaa",45000.0,3.0,3.0,2.0
+210,"Ruaka, Kiambaa",45000.0,2.0,2.0,2.0
+211,other,45000.0,3.0,3.0,2.0
+212,other,45000.0,2.0,2.0,2.0
+213,other,45000.0,3.0,3.0,2.0
+214,other,45000.0,3.0,3.0,2.0
+215,other,45000.0,3.0,3.0,2.0
+216,other,45000.0,3.0,3.0,2.0
+217,other,45000.0,2.0,2.0,2.0
+218,"Ruaka, Kiambaa",45000.0,2.0,2.0,2.0
+219,other,45000.0,2500.0,3.0,2.0
+220,other,45000.0,2.0,2.0,2.0
+221,other,45000.0,2.0,2.0,2.0
+222,other,45000.0,1.0,1.0,1.0
+223,other,45000.0,3.0,3.0,2.0
+224,other,45000.0,3.0,3.0,4.0
+225,"Kiambu Road, Kiambu Road",45000.0,2.0,2.0,2.0
+226,other,45000.0,4.0,4.0,4.0
+227,"Limuru Road, Ruaka, Kiambaa",45000.0,4000.0,3.0,2.0
+228,other,45000.0,1.0,2.0,2.0
+229,other,45000.0,3.0,3.0,3.0
+230,"Ngong Road, Ngong Road",45000.0,2.0,2.0,1.0
+231,other,45000.0,35.0,1.0,1.0
+232,other,45000.0,2.0,2.0,2.0
+233,other,45000.0,1.0,1.0,1.0
+234,"Parklands, Westlands",45000.0,2.0,2.0,2.0
+235,other,45000.0,3.0,3.0,2.0
+236,"Kiambu Road, Kiambu Road",45000.0,2.0,2.0,2.0
+237,other,45000.0,2.0,2.0,2.0
+238,other,45000.0,3.0,3.0,2.0
+239,other,45000.0,3.0,3.0,2.0
+240,"Kiambu Road, Kiambu Road",46500.0,2.0,2.0,2.0
+241,"Ruaka, Kiambaa",47000.0,3.0,3.0,2.0
+242,other,48000.0,2.0,2.0,2.0
+243,"Ngong Road, Ngong Road",48000.0,2.0,2.0,3.0
+244,"Kilimani, Dagoretti North",48000.0,1.0,1.0,1.0
+245,other,48000.0,48.0,2.0,1.0
+246,other,48000.0,4500.0,2.0,2.0
+247,other,48000.0,3.0,3.0,2.0
+248,"Limuru Road, Ruaka, Kiambaa",50000.0,10118.0,3.0,2.0
+249,other,50000.0,130.0,3.0,3.0
+250,"Waiyaki Way, Westlands",50000.0,2.0,2.0,2.0
+251,"Kileleshwa, Dagoretti North",50000.0,2.0,2.0,2.0
+252,other,50000.0,3.0,3.0,2.0
+253,other,50000.0,3.0,3.0,3.0
+254,other,50000.0,150.0,3.0,1.0
+255,other,50000.0,130.0,3.0,2.0
+256,"Westlands Area, Westlands",50000.0,1.0,1.0,2.0
+257,other,50000.0,4500.0,2.0,2.0
+258,other,50000.0,3.0,3.0,2.0
+259,"Ngong Road, Ngong Road",50000.0,3.0,3.0,2.0
+260,other,50000.0,2.0,2.0,2.0
+261,other,50000.0,80.0,2.0,2.0
+262,other,50000.0,1.0,1.0,1.0
+263,other,50000.0,3.0,3.0,2.0
+264,other,50000.0,3.0,3.0,2.0
+265,"Rhapta Road, Westlands",50000.0,1.0,1.0,1.0
+266,other,50000.0,300.0,3.0,3.0
+267,other,50000.0,3.0,3.0,2.0
+268,other,50000.0,2.0,2.0,2.0
+269,other,50000.0,3.0,3.0,2.0
+270,other,50000.0,2.0,2.0,1.0
+271,other,50000.0,1.0,1.0,1.0
+272,other,50000.0,3.0,3.0,3.0
+273,"Kiambu Road, Kiambu Road",50000.0,3.0,3.0,3.0
+274,"Kilimani, Dagoretti North",50000.0,1.0,1.0,2.0
+275,"Waiyaki Way, Westlands",50000.0,0.0,0.0,1.0
+276,"Ruaka, Kiambaa",51000.0,3.0,3.0,3.0
+277,other,52000.0,2.0,2.0,2.0
+278,other,52000.0,300.0,2.0,3.0
+279,"Kiambu Road, Kiambu Road",52000.0,2.0,2.0,2.0
+280,other,52500.0,2.0,2.0,1.0
+281,"Limuru Road, Ruaka, Kiambaa",54000.0,20235.0,3.0,3.0
+282,"Ruaka, Kiambaa",54000.0,3.0,3.0,2.0
+283,other,55000.0,94.0,2.0,2.0
+284,"Kilimani, Dagoretti North",55000.0,2.0,2.0,2.0
+285,other,55000.0,1.0,1.0,1.0
+286,other,55000.0,3.0,3.0,1.0
+287,"Kileleshwa, Dagoretti North",55000.0,2.0,2.0,2.0
+288,"Rhapta Road, Westlands",55000.0,1.0,1.0,2.0
+289,"Kiambu Road, Kiambu Road",55000.0,3.0,3.0,2.0
+290,other,55000.0,3.0,3.0,3.0
+291,other,55000.0,2.0,2.0,2.0
+292,other,55000.0,3.0,3.0,2.0
+293,other,55000.0,2000.0,2.0,2.0
+294,other,55000.0,2.0,2.0,2.0
+295,other,55000.0,2.0,2.0,1.0
+296,"Lavington, Dagoretti North",55000.0,2.0,2.0,2.0
+297,other,55000.0,1.0,1.0,1.0
+298,other,55000.0,3.0,3.0,2.0
+299,other,55000.0,2.0,2.0,2.0
+300,other,55000.0,260.0,3.0,3.0
+301,other,55000.0,107.0,2.0,2.0
+302,"Kilimani, Dagoretti North",55000.0,1.0,1.0,1.0
+303,"Limuru Road, Ruaka, Kiambaa",55000.0,8094.0,3.0,2.0
+304,other,55000.0,40470.0,2.0,3.0
+305,"Kilimani, Dagoretti North",55000.0,1.0,1.0,2.0
+306,"kilimani, kilimani, Kilimani, Dagoretti North",55000.0,2.0,2.0,2.0
+307,"Lavington, Dagoretti North",55000.0,3.0,3.0,2.0
+308,"Kileleshwa, Dagoretti North",55000.0,3.0,3.0,3.0
+309,other,55000.0,1.0,1.0,1.0
+310,other,55000.0,2.0,2.0,2.0
+311,other,55000.0,3.0,3.0,2.0
+312,other,55000.0,3.0,3.0,2.0
+313,other,55000.0,1.0,1.0,2.0
+314,other,55000.0,3.0,3.0,2.0
+315,"Kiambu Road, Kiambu Road",55000.0,3.0,3.0,4.0
+316,"Kiambu Road, Kiambu Road",55000.0,3.0,3.0,2.0
+317,other,55000.0,2.0,2.0,2.0
+318,other,55000.0,110.0,2.0,2.0
+319,other,55000.0,3.0,3.0,4.0
+320,"Kilimani, Dagoretti North",55000.0,2.0,2.0,2.0
+321,other,55000.0,2.0,2.0,2.0
+322,other,55000.0,95.0,2.0,2.0
+323,other,55000.0,2.0,2.0,2.0
+324,other,55000.0,3.0,3.0,3.0
+325,"Lavington, Dagoretti North",55000.0,2.0,2.0,2.0
+326,other,55000.0,80.0,2.0,2.0
+327,"Kilimani, Dagoretti North",55000.0,1.0,1.0,1.0
+328,"Kileleshwa, Dagoretti North",55000.0,3.0,3.0,4.0
+329,"Kileleshwa, Dagoretti North",55000.0,3.0,3.0,3.0
+330,other,55000.0,2.0,2.0,2.0
+331,"Kileleshwa, Dagoretti North",55000.0,2.0,2.0,2.0
+332,other,55000.0,2.0,2.0,2.0
+333,other,55000.0,2.0,2.0,1.0
+334,other,55000.0,3.0,3.0,3.0
+335,other,56000.0,3.0,3.0,2.0
+336,other,56000.0,3.0,3.0,4.0
+337,other,57750.0,4.0,4.0,2.0
+338,other,58000.0,2.0,2.0,2.0
+339,other,58500.0,3.0,3.0,2.0
+340,other,59000.0,2.0,2.0,2.0
+341,other,60000.0,125.0,3.0,3.0
+342,other,60000.0,3.0,3.0,2.0
+343,"Kilimani, Dagoretti North",60000.0,1.0,1.0,1.0
+344,other,60000.0,1.0,1.0,1.0
+345,other,60000.0,3.0,3.0,2.0
+346,"Lavington, Dagoretti North",60000.0,2.0,2.0,2.0
+347,other,60000.0,2.0,2.0,1.0
+348,"Kileleshwa, Dagoretti North",60000.0,2.0,2.0,2.0
+349,other,60000.0,2.0,2.0,2.0
+350,other,60000.0,2.0,2.0,2.0
+351,other,60000.0,3.0,3.0,2.0
+352,other,60000.0,2.0,2.0,2.0
+353,"kilimani, kilimani, Kilimani, Dagoretti North",60000.0,2.0,2.0,2.0
+354,other,60000.0,2.0,2.0,2.0
+355,other,60000.0,51.0,1.0,1.0
+356,other,60000.0,2.0,2.0,2.0
+357,"Kilimani, Dagoretti North",60000.0,2.0,2.0,2.0
+358,"Kileleshwa, Dagoretti North",60000.0,2.0,2.0,2.0
+359,other,60000.0,129.0,3.0,2.0
+360,"Westlands Area, Westlands",60000.0,2.0,2.0,2.0
+361,"Kileleshwa, Dagoretti North",60000.0,2.0,2.0,1.0
+362,other,60000.0,8000.0,3.0,2.0
+363,other,60000.0,3.0,3.0,3.0
+364,other,60000.0,2.0,2.0,2.0
+365,other,60000.0,3.0,3.0,2.0
+366,other,60000.0,3.0,3.0,2.0
+367,"Kileleshwa, Dagoretti North",60000.0,110.0,2.0,2.0
+368,"Lavington, Dagoretti North",60000.0,3.0,3.0,2.0
+369,"Kileleshwa, Dagoretti North",60000.0,3.0,3.0,2.0
+370,"Rhapta Road, Westlands",60000.0,3.0,3.0,2.0
+371,other,60000.0,150.0,2.0,2.0
+372,"Waiyaki Way, Westlands",60000.0,3.0,3.0,3.0
+373,"Kileleshwa, Dagoretti North",60000.0,3.0,3.0,2.0
+374,"Kiambu Road, Kiambu Road",60000.0,4.0,4.0,4.0
+375,other,60000.0,2.0,2.0,1.0
+376,"Westlands Area, Westlands",60000.0,2.0,2.0,2.0
+377,"Ruaka, Kiambaa",60000.0,3.0,3.0,2.0
+378,other,60000.0,3.0,3.0,2.0
+379,"Rhapta Road, Westlands",60000.0,1.0,1.0,1.0
+380,"Ngong Road, Ngong Road",60000.0,89.0,2.0,2.0
+381,other,60000.0,2500.0,3.0,2.0
+382,other,60000.0,2.0,2.0,2.0
+383,"Kileleshwa, Dagoretti North",60000.0,2.0,2.0,2.0
+384,"Kileleshwa, Dagoretti North",60000.0,2.0,2.0,2.0
+385,"Kilimani, Dagoretti North",60000.0,2.0,2.0,2.0
+386,"Kilimani, Dagoretti North",60000.0,2.0,2.0,2.0
+387,other,60000.0,120.0,3.0,2.0
+388,other,60000.0,1.0,1.0,1.0
+389,other,60500.0,2.0,2.0,2.0
+390,"Ngong Road, Ngong Road",62000.0,3.0,3.0,2.0
+391,other,62500.0,2.0,2.0,2.0
+392,"Kilimani, Dagoretti North",65000.0,90.0,1.0,1.0
+393,"Kilimani, Dagoretti North",65000.0,90.0,1.0,1.0
+394,other,65000.0,2.0,2.0,2.0
+395,other,65000.0,2.0,2.0,1.0
+396,other,65000.0,2.0,2.0,2.0
+397,other,65000.0,2000.0,3.0,2.0
+398,"kilimani, kilimani, Kilimani, Dagoretti North",65000.0,2.0,2.0,2.0
+399,other,65000.0,3.0,3.0,2.0
+400,"Waiyaki Way, Westlands",65000.0,2.0,2.0,2.0
+401,other,65000.0,3.0,3.0,3.0
+402,"Kilimani, Dagoretti North",65000.0,2.0,2.0,2.0
+403,"Kileleshwa, Dagoretti North",65000.0,2.0,2.0,2.0
+404,"Kilimani, Dagoretti North",65000.0,2.0,2.0,2.0
+405,other,65000.0,2.0,2.0,2.0
+406,"Kilimani, Dagoretti North",65000.0,2.0,2.0,2.0
+407,other,65000.0,2.0,2.0,2.0
+408,"Kileleshwa, Dagoretti North",65000.0,80.0,1.0,2.0
+409,"Rhapta Road, Westlands",65000.0,3.0,3.0,2.0
+410,"Waiyaki Way, Westlands",65000.0,3.0,3.0,2.0
+411,other,65000.0,157.0,2.0,1.0
+412,other,65000.0,3.0,3.0,2.0
+413,other,65000.0,1.0,1.0,1.0
+414,other,65000.0,1.0,1.0,1.0
+415,other,65000.0,2.0,2.0,2.0
+416,other,65000.0,127.0,2.0,2.0
+417,"Kileleshwa, Dagoretti North",65000.0,111.0,2.0,2.0
+418,"Kilimani, Dagoretti North",65000.0,100.0,1.0,1.0
+419,"Kileleshwa, Dagoretti North",65000.0,3.0,3.0,2.0
+420,other,65000.0,3.0,3.0,2.0
+421,"kilimani, kilimani, Kilimani, Dagoretti North",65000.0,2.0,2.0,2.0
+422,other,65000.0,3.0,3.0,2.0
+423,"Waiyaki Way, Westlands",65000.0,3.0,3.0,3.0
+424,other,65000.0,1.0,1.0,2.0
+425,other,65000.0,2.0,2.0,2.0
+426,other,65000.0,2.0,2.0,2.0
+427,"Lavington, Dagoretti North",65000.0,2.0,2.0,2.0
+428,other,65000.0,2.0,2.0,3.0
+429,other,65000.0,2.0,2.0,2.0
+430,other,65000.0,3.0,3.0,2.0
+431,"Kilimani, Dagoretti North",65000.0,2.0,2.0,2.0
+432,"Kilimani, Dagoretti North",65000.0,2.0,2.0,2.0
+433,other,65000.0,2.0,2.0,2.0
+434,"Kileleshwa, Dagoretti North",65000.0,2.0,2.0,2.0
+435,other,65000.0,2.0,2.0,2.0
+436,other,65000.0,1.0,1.0,2.0
+437,"Kileleshwa, Dagoretti North",65000.0,2.0,2.0,2.0
+438,"Kileleshwa, Dagoretti North",65000.0,3.0,3.0,2.0
+439,"Kileleshwa, Dagoretti North",65000.0,2.0,2.0,2.0
+440,other,65000.0,177.0,3.0,3.0
+441,other,65000.0,3.0,3.0,3.0
+442,"Ngong Road, Ngong Road",65000.0,3.0,3.0,2.0
+443,other,65000.0,1.0,1.0,1.0
+444,"Kileleshwa, Dagoretti North",65000.0,2.0,2.0,2.0
+445,other,65000.0,1.0,1.0,1.0
+446,"kilimani, Kilimani, Kilimani, Dagoretti North",65000.0,2.0,2.0,2.0
+447,"kilimani, Kilimani, Kilimani, Dagoretti North",65000.0,3.0,3.0,2.0
+448,"kilimani, kilimani, Kilimani, Dagoretti North",65000.0,2.0,2.0,2.0
+449,"kilimani, kilimani, Kilimani, Dagoretti North",65000.0,2.0,2.0,2.0
+450,"Rhapta Road, Westlands",65000.0,3.0,3.0,2.0
+451,"Kileleshwa, Dagoretti North",65000.0,2.0,2.0,2.0
+452,other,65000.0,2000.0,3.0,2.0
+453,other,65000.0,2.0,2.0,2.0
+454,other,65000.0,2.0,2.0,2.0
+455,other,65000.0,2.0,2.0,2.0
+456,"Kileleshwa, Dagoretti North",65000.0,2.0,2.0,2.0
+457,other,65000.0,3.0,3.0,2.0
+458,other,65000.0,3.0,3.0,2.0
+459,"Kileleshwa, Dagoretti North",65000.0,2.0,2.0,2.0
+460,other,65000.0,100.0,2.0,2.0
+461,"Kileleshwa, Dagoretti North",65000.0,2.0,2.0,2.0
+462,other,65000.0,0.0,0.0,1.0
+463,"Kilimani, Dagoretti North",65000.0,105.0,2.0,2.0
+464,"Kileleshwa, Dagoretti North",65000.0,3.0,3.0,2.0
+465,other,65000.0,3.0,3.0,2.0
+466,other,66000.0,3.0,3.0,1.0
+467,other,66000.0,117.0,3.0,2.0
+468,"Westlands Area, Westlands",67000.0,2300.0,3.0,3.0
+469,"Kileleshwa, Dagoretti North",67000.0,2.0,2.0,2.0
+470,other,67500.0,2.0,2.0,2.0
+471,"lavington, Lavington, Lavington, Dagoretti North",67500.0,3.0,3.0,2.0
+472,"Kileleshwa, Dagoretti North",68000.0,3.0,3.0,2.0
+473,other,68000.0,2.0,2.0,2.0
+474,other,69997.0,2.0,2.0,2.0
+475,other,70000.0,2.0,2.0,2.0
+476,other,70000.0,2.0,2.0,2.0
+477,"Kilimani, Dagoretti North",70000.0,2.0,2.0,2.0
+478,"Kilimani, Dagoretti North",70000.0,3.0,3.0,3.0
+479,"kilimani, Kilimani, Kilimani, Dagoretti North",70000.0,3.0,3.0,2.0
+480,other,70000.0,120.0,3.0,2.0
+481,other,70000.0,3.0,3.0,3.0
+482,other,70000.0,3.0,3.0,2.0
+483,other,70000.0,3.0,3.0,2.0
+484,"kilimani, Kilimani, Kilimani, Dagoretti North",70000.0,3.0,3.0,2.0
+485,"kilimani, kilimani, Kilimani, Dagoretti North",70000.0,3.0,3.0,2.0
+486,other,70000.0,3.0,3.0,2.0
+487,"Kilimani, Dagoretti North",70000.0,3.0,3.0,2.0
+488,other,70000.0,3.0,3.0,2.0
+489,other,70000.0,3.0,3.0,2.0
+490,"Waiyaki Way, Westlands",70000.0,135.0,3.0,2.0
+491,"Lavington, Dagoretti North",70000.0,2.0,2.0,2.0
+492,other,70000.0,2.0,2.0,2.0
+493,other,70000.0,3.0,3.0,2.0
+494,"Kileleshwa, Dagoretti North",70000.0,85.0,2.0,2.0
+495,"Kilimani, Dagoretti North",70000.0,2.0,2.0,2.0
+496,"Kilimani, Dagoretti North",70000.0,2.0,2.0,2.0
+497,other,70000.0,2.0,2.0,3.0
+498,other,70000.0,3.0,3.0,2.0
+499,"Kiambu Road, Kiambu Road",70000.0,3.0,3.0,2.0
+500,other,70000.0,149.0,2.0,2.0
+501,other,70000.0,3.0,3.0,2.0
+502,other,70000.0,4.0,4.0,3.0
+503,"Westlands Area, Westlands",70000.0,2.0,2.0,3.0
+504,other,70000.0,3.0,3.0,2.0
+505,other,70000.0,3.0,3.0,2.0
+506,other,70000.0,4.0,4.0,4.0
+507,other,70000.0,2.0,2.0,2.0
+508,"Ruaka, Kiambaa",70000.0,3.0,3.0,2.0
+509,other,70000.0,6.0,2.0,2.0
+510,other,70000.0,2.0,2.0,2.0
+511,"Lavington, Dagoretti North",70000.0,3.0,3.0,2.0
+512,other,70000.0,125.0,3.0,2.0
+513,other,70000.0,2160.0,3.0,4.0
+514,"Kilimani, Dagoretti North",70000.0,2.0,2.0,3.0
+515,other,70000.0,2.0,2.0,2.0
+516,"Westlands Area, Westlands",70000.0,2.0,2.0,2.0
+517,other,70000.0,3.0,3.0,2.0
+518,"Kileleshwa, Dagoretti North",70000.0,2.0,2.0,2.0
+519,"Kileleshwa, Dagoretti North",70000.0,2.0,2.0,2.0
+520,"Kileleshwa, Dagoretti North",70000.0,3.0,3.0,2.0
+521,other,70000.0,3.0,3.0,3.0
+522,"Rhapta Road, Westlands Area, Westlands",70000.0,2.0,2.0,3.0
+523,other,70000.0,3.0,3.0,2.0
+524,other,70000.0,3.0,3.0,3.0
+525,"Lavington, Dagoretti North",70000.0,15.0,3.0,2.0
+526,"Kileleshwa, Dagoretti North",70000.0,140.0,2.0,2.0
+527,"Kilimani, Dagoretti North",70000.0,90.0,1.0,2.0
+528,other,70000.0,3.0,3.0,2.0
+529,other,70000.0,177.0,3.0,3.0
+530,"kilimani, Kilimani, Kilimani, Dagoretti North",70000.0,2.0,2.0,2.0
+531,"kilimani, kilimani, Kilimani, Dagoretti North",70000.0,3.0,3.0,2.0
+532,other,70000.0,3.0,3.0,2.0
+533,"Lavington, Dagoretti North",70000.0,2.0,2.0,1.0
+534,"Ngong Road, Ngong Road",70000.0,113.0,3.0,2.0
+535,other,70000.0,3.0,3.0,2.0
+536,other,70000.0,1000.0,2.0,2.0
+537,other,70000.0,100.0,2.0,2.0
+538,"Lavington, Dagoretti North",70000.0,1.0,1.0,1.0
+539,other,70000.0,3.0,3.0,3.0
+540,other,70000.0,3.0,3.0,2.0
+541,"Kiambu Road, Kiambu Road",70000.0,4.0,4.0,5.0
+542,"Kiambu Road, Kiambu Road",70000.0,4.0,4.0,5.0
+543,"Westlands Area, Westlands",70000.0,2.0,2.0,2.0
+544,other,70000.0,4.0,4.0,5.0
+545,"Kilimani, Dagoretti North",70000.0,140.0,3.0,2.0
+546,"Kilimani, Dagoretti North",70000.0,120.0,2.0,2.0
+547,other,72000.0,3.0,3.0,3.0
+548,"Kileleshwa, Dagoretti North",72500.0,2.0,2.0,2.0
+549,other,73000.0,3.0,3.0,4.0
+550,"Rhapta Road, Westlands Area, Westlands",75000.0,2.0,2.0,2.0
+551,other,75000.0,3.0,3.0,3.0
+552,other,75000.0,158.0,2.0,2.0
+553,"Kilimani, Dagoretti North",75000.0,3.0,3.0,2.0
+554,other,75000.0,3.0,3.0,2.0
+555,"Kilimani, Dagoretti North",75000.0,3.0,3.0,3.0
+556,other,75000.0,158.0,2.0,2.0
+557,other,75000.0,2.0,2.0,2.0
+558,"lavington, Lavington, Lavington, Dagoretti North",75000.0,2.0,2.0,2.0
+559,"kilimani, kilimani, Kilimani, Dagoretti North",75000.0,3.0,3.0,2.0
+560,other,75000.0,2.0,2.0,2.0
+561,"Lavington, Dagoretti North",75000.0,3.0,3.0,3.0
+562,"Kilimani, Dagoretti North",75000.0,3.0,3.0,5.0
+563,"Lavington, Dagoretti North",75000.0,2.0,2.0,3.0
+564,other,75000.0,3.0,3.0,3.0
+565,"Kilimani, Dagoretti North",75000.0,2.0,2.0,2.0
+566,"Westlands Area, Westlands",75000.0,3.0,3.0,3.0
+567,"Westlands Area, Westlands",75000.0,21780.0,2.0,2.0
+568,other,75000.0,70.0,1.0,1.0
+569,"Lavington, Dagoretti North",75000.0,2.0,2.0,3.0
+570,other,75000.0,4.0,4.0,3.0
+571,other,75000.0,2.0,2.0,3.0
+572,other,75000.0,3.0,3.0,2.0
+573,other,75000.0,3.0,3.0,4.0
+574,other,75000.0,3.0,3.0,2.0
+575,other,75000.0,120.0,4.0,3.0
+576,other,75000.0,2.0,2.0,3.0
+577,"Waiyaki Way, Westlands",75000.0,3.0,3.0,2.0
+578,other,75000.0,1.0,1.0,2.0
+579,"Rhapta Road, Westlands",75000.0,3.0,3.0,3.0
+580,"Kilimani, Dagoretti North",75000.0,3.0,3.0,2.0
+581,other,75000.0,3.0,3.0,3.0
+582,"Lavington, Dagoretti North",75000.0,3.0,3.0,2.0
+583,"Lavington, Dagoretti North",75000.0,128.0,3.0,3.0
+584,"Lavington, Dagoretti North",75000.0,111.0,3.0,3.0
+585,"Kilimani, Dagoretti North",75000.0,120.0,2.0,2.0
+586,"Westlands Area, Westlands",75000.0,2.0,2.0,2.0
+587,other,75000.0,125.0,3.0,3.0
+588,other,75000.0,115.0,3.0,2.0
+589,other,75000.0,3.0,3.0,2.0
+590,"lavington, Lavington, Lavington, Dagoretti North",75000.0,3.0,3.0,2.0
+591,"kilimani, kilimani, Kilimani, Dagoretti North",75000.0,2.0,2.0,2.0
+592,other,75000.0,3.0,3.0,2.0
+593,other,75000.0,3.0,3.0,3.0
+594,"kilimani, kilimani, Kilimani, Dagoretti North",75000.0,2.0,2.0,2.0
+595,"kilimani, kilimani, Kilimani, Dagoretti North",75000.0,3.0,3.0,2.0
+596,other,75000.0,3.0,3.0,2.0
+597,other,75000.0,2.0,2.0,1.0
+598,other,75000.0,2.0,2.0,3.0
+599,other,75000.0,4.0,4.0,3.0
+600,other,75000.0,3.0,3.0,2.0
+601,other,75000.0,3.0,3.0,2.0
+602,other,75000.0,3.0,3.0,2.0
+603,"Kilimani, Dagoretti North",75000.0,3.0,3.0,2.0
+604,other,75000.0,2.0,2.0,2.0
+605,other,75000.0,2.0,2.0,2.0
+606,other,75000.0,2.0,2.0,3.0
+607,other,75000.0,2.0,2.0,2.0
+608,other,75000.0,2.0,2.0,2.0
+609,"Lavington, Dagoretti North",75000.0,2.0,2.0,2.0
+610,other,75000.0,158.0,2.0,2.0
+611,"Kilimani, Dagoretti North",75000.0,1250.0,2.0,2.0
+612,"Kilimani, Dagoretti North",75000.0,1250.0,2.0,2.0
+613,"lavington, Lavington, Lavington, Dagoretti North",75000.0,3.0,3.0,3.0
+614,"kilimani, Kilimani, Kilimani, Dagoretti North",75000.0,3.0,3.0,2.0
+615,"lavington, Lavington, Lavington, Dagoretti North",75000.0,3.0,3.0,3.0
+616,"kilimani, kilimani, Kilimani, Dagoretti North",75000.0,4.0,4.0,4.0
+617,"Riverside, Westlands",75000.0,2.0,2.0,2.0
+618,"Kileleshwa, Dagoretti North",75000.0,3.0,3.0,3.0
+619,other,75000.0,2.0,2.0,2.0
+620,"Kilimani, Dagoretti North",75000.0,2.0,2.0,1.0
+621,"Kilimani, Dagoretti North",75000.0,3.0,3.0,3.0
+622,"Kilimani, Dagoretti North",75000.0,2.0,2.0,2.0
+623,other,75000.0,3.0,3.0,5.0
+624,"Kileleshwa, Dagoretti North",75000.0,2.0,2.0,3.0
+625,other,75000.0,3.0,3.0,2.0
+626,other,75000.0,3.0,3.0,2.0
+627,other,75000.0,3.0,3.0,2.0
+628,"Kilimani, Dagoretti North",75000.0,2.0,2.0,3.0
+629,other,75000.0,4.0,4.0,3.0
+630,other,75000.0,3.0,3.0,3.0
+631,other,75000.0,2.0,2.0,2.0
+632,other,75000.0,3.0,3.0,2.0
+633,other,75000.0,3.0,3.0,2.0
+634,"Lavington, Dagoretti North",75000.0,2.0,2.0,2.0
+635,"Kilimani, Dagoretti North",75000.0,3.0,3.0,2.0
+636,"Westlands Area, Westlands",75000.0,3.0,3.0,4.0
+637,"Kileleshwa, Dagoretti North",75000.0,3.0,3.0,2.0
+638,"Riverside, Westlands",75000.0,1.0,1.0,2.0
+639,"Lavington, Dagoretti North",75000.0,2.0,2.0,2.0
+640,"Rhapta Road, Westlands",75000.0,4.0,4.0,2.0
+641,other,75000.0,3.0,3.0,3.0
+642,other,75000.0,3.0,3.0,2.0
+643,"Lavington, Dagoretti North",75000.0,3.0,3.0,2.0
+644,"Parklands, Westlands",75000.0,2.0,2.0,2.0
+645,other,75000.0,125.0,2.0,2.0
+646,other,75000.0,3.0,3.0,2.0
+647,"Lavington, Dagoretti North",75000.0,2.0,2.0,2.0
+648,"Lavington, Dagoretti North",76000.0,3.0,3.0,4.0
+649,other,77000.0,371.0,3.0,3.0
+650,other,77000.0,3.0,3.0,3.0
+651,other,78000.0,123.0,2.0,2.0
+652,"Kilimani, Dagoretti North",78000.0,2.0,2.0,2.0
+653,"Kilimani, Dagoretti North",78000.0,3.0,3.0,2.0
+654,"Kileleshwa, Dagoretti North",79000.0,3.0,3.0,2.0
+655,other,80000.0,150.0,3.0,3.0
+656,other,80000.0,2.0,2.0,2.0
+657,other,80000.0,2.0,2.0,3.0
+658,"Rhapta Road, Westlands",80000.0,3.0,3.0,2.0
+659,"Rhapta Road, Westlands",80000.0,3.0,3.0,3.0
+660,other,80000.0,3.0,3.0,4.0
+661,other,80000.0,125.0,4.0,3.0
+662,"Kilimani, Dagoretti North",80000.0,3.0,3.0,2.0
+663,other,80000.0,3.0,3.0,2.0
+664,"kilimani, Kilimani, Kilimani, Dagoretti North",80000.0,3.0,3.0,3.0
+665,"kilimani, Kilimani, Kilimani, Dagoretti North",80000.0,4.0,4.0,4.0
+666,"kilimani, kilimani, Kilimani, Dagoretti North",80000.0,2.0,2.0,2.0
+667,other,80000.0,3.0,3.0,2.0
+668,"Rhapta Road, Westlands",80000.0,3.0,3.0,3.0
+669,other,80000.0,3.0,3.0,3.0
+670,other,80000.0,1.0,1.0,1.0
+671,other,80000.0,1.0,1.0,2.0
+672,other,80000.0,3.0,3.0,2.0
+673,other,80000.0,3.0,3.0,3.0
+674,other,80000.0,1.0,1.0,1.0
+675,other,80000.0,1.0,1.0,2.0
+676,other,80000.0,3.0,3.0,3.0
+677,"Westlands Area, Westlands",80000.0,3.0,3.0,3.0
+678,"Westlands Area, Westlands",80000.0,186.0,3.0,2.0
+679,"Riverside Drive, Riverside, Westlands",80000.0,3.0,3.0,2.0
+680,other,80000.0,2.0,2.0,2.0
+681,other,80000.0,1.0,1.0,1.0
+682,other,80000.0,2.0,2.0,2.0
+683,"Kilimani, Dagoretti North",80000.0,2.0,2.0,2.0
+684,"Kileleshwa, Dagoretti North",80000.0,1.0,1.0,2.0
+685,"Kilimani, Dagoretti North",80000.0,3.0,3.0,2.0
+686,other,80000.0,170.0,3.0,4.0
+687,other,80000.0,170.0,3.0,4.0
+688,other,80000.0,264.0,3.0,4.0
+689,"Kileleshwa, Dagoretti North",80000.0,3.0,3.0,3.0
+690,"Kileleshwa, Dagoretti North",80000.0,3.0,3.0,4.0
+691,"Rhapta Road, Westlands",80000.0,2.0,2.0,2.0
+692,"Kileleshwa, Dagoretti North",80000.0,2.0,2.0,2.0
+693,other,80000.0,2.0,2.0,2.0
+694,"kilimani, Kilimani, Kilimani, Dagoretti North",80000.0,2.0,2.0,2.0
+695,other,80000.0,3.0,3.0,4.0
+696,other,80000.0,1000.0,3.0,2.0
+697,other,80000.0,13.0,2.0,3.0
+698,other,80000.0,15.0,3.0,3.0
+699,other,80000.0,3.0,3.0,3.0
+700,other,80000.0,85.0,2.0,3.0
+701,other,80000.0,3.0,3.0,4.0
+702,"Riverside, Westlands",80000.0,2.0,2.0,2.0
+703,other,80000.0,4.0,4.0,1.0
+704,other,80000.0,1.0,1.0,2.0
+705,"Kilimani, Dagoretti North",80000.0,1.0,1.0,1.0
+706,"Westlands Area, Westlands",80000.0,21780.0,2.0,2.0
+707,other,80000.0,3.0,3.0,3.0
+708,other,80000.0,3.0,3.0,3.0
+709,"Riverside, Westlands",80000.0,3.0,3.0,2.0
+710,"Kileleshwa, Dagoretti North",80000.0,2.0,2.0,2.0
+711,"Lavington, Dagoretti North",80000.0,2.0,2.0,2.0
+712,other,80000.0,130.0,2.0,2.0
+713,other,80000.0,220.0,3.0,3.0
+714,"Westlands Area, Westlands",80000.0,3.0,3.0,2.0
+715,"Ruaka, Kiambaa",80000.0,4.0,4.0,3.0
+716,"Lavington, Dagoretti North",80000.0,3.0,3.0,2.0
+717,other,80000.0,2024.0,3.0,2.0
+718,other,80000.0,2.0,2.0,2.0
+719,other,80000.0,2.0,2.0,2.0
+720,other,80000.0,2.0,2.0,2.0
+721,"lavington, Lavington, Lavington, Dagoretti North",80000.0,3.0,3.0,2.0
+722,"lavington, Lavington, Lavington, Dagoretti North",80000.0,3.0,3.0,2.0
+723,"kilimani, kilimani, Kilimani, Dagoretti North",80000.0,2.0,2.0,2.0
+724,"kilimani, kilimani, Kilimani, Dagoretti North",80000.0,2.0,2.0,2.0
+725,other,80000.0,2.0,2.0,2.0
+726,other,80000.0,3.0,3.0,3.0
+727,"kilimani, kilimani, Kilimani, Dagoretti North",80000.0,114.0,2.0,2.0
+728,"Kilimani, Dagoretti North",80000.0,3.0,3.0,4.0
+729,other,80000.0,3.0,3.0,4.0
+730,"Ngong Road, Ngong Road",80000.0,2.0,2.0,2.0
+731,"Kilimani, Dagoretti North",80000.0,3.0,3.0,2.0
+732,"Lavington, Dagoretti North",80000.0,3.0,3.0,3.0
+733,other,80000.0,2.0,2.0,3.0
+734,"Kilimani, Dagoretti North",80000.0,4.0,4.0,2.0
+735,"Rhapta Road, Westlands",80000.0,2.0,2.0,2.0
+736,"Lavington, Dagoretti North",80000.0,120.0,2.0,2.0
+737,"Kilimani, Dagoretti North",80000.0,120.0,2.0,2.0
+738,"Rhapta Road, Westlands",80000.0,3.0,3.0,2.0
+739,"Kilimani, Dagoretti North",80000.0,3.0,3.0,3.0
+740,other,80000.0,3.0,3.0,3.0
+741,other,83000.0,3.0,3.0,4.0
+742,other,85000.0,2.0,2.0,2.0
+743,"Lavington, Dagoretti North",85000.0,3.0,3.0,2.0
+744,"Kilimani, Dagoretti North",85000.0,2.0,2.0,2.0
+745,"Kileleshwa, Dagoretti North",85000.0,1.0,1.0,1.0
+746,"Kileleshwa, Dagoretti North",85000.0,1.0,1.0,1.0
+747,"Riverside, Westlands",85000.0,1.0,1.0,1.0
+748,"Kilimani, Dagoretti North",85000.0,3.0,3.0,3.0
+749,"Kilimani, Dagoretti North",85000.0,1.0,1.0,1.0
+750,"Lavington, Dagoretti North",85000.0,3.0,3.0,2.0
+751,other,85000.0,2.0,2.0,2.0
+752,other,85000.0,3.0,3.0,3.0
+753,other,85000.0,3.0,3.0,4.0
+754,"Westlands Area, Westlands",85000.0,2.0,2.0,1.0
+755,other,85000.0,2.0,2.0,2.0
+756,other,85000.0,2.0,2.0,2.0
+757,other,85000.0,2.0,2.0,2.0
+758,"Kilimani, Dagoretti North",85000.0,3.0,3.0,2.0
+759,"lavington, Lavington, Lavington, Dagoretti North",85000.0,2.0,2.0,2.0
+760,"lavington, Lavington, Lavington, Dagoretti North",85000.0,3.0,3.0,2.0
+761,"Westlands Area, Westlands",85000.0,21780.0,4.0,4.0
+762,other,85000.0,2.0,2.0,2.0
+763,"Kilimani, Dagoretti North",85000.0,2024.0,3.0,3.0
+764,other,85000.0,3.0,3.0,4.0
+765,other,85000.0,2.0,2.0,2.0
+766,other,85000.0,2.0,2.0,2.0
+767,"Kilimani, Dagoretti North",85000.0,3.0,3.0,2.0
+768,other,85000.0,4.0,4.0,2.0
+769,"Kilimani, Dagoretti North",85000.0,3.0,3.0,3.0
+770,other,85000.0,2.0,2.0,3.0
+771,"Riverside, Westlands",85000.0,2.0,2.0,2.0
+772,other,85000.0,2.0,2.0,3.0
+773,"Lavington, Dagoretti North",85000.0,130.0,3.0,4.0
+774,"Kilimani, Dagoretti North",85000.0,3.0,3.0,3.0
+775,other,85000.0,3.0,3.0,2.0
+776,other,85000.0,186.0,3.0,3.0
+777,"kilimani, Kilimani, Kilimani, Dagoretti North",85000.0,3.0,3.0,2.0
+778,"kilimani, kilimani, Kilimani, Dagoretti North",85000.0,3.0,3.0,3.0
+779,"Brookside, Westlands",85000.0,2.0,2.0,2.0
+780,other,85000.0,3.0,3.0,2.0
+781,other,85000.0,3.0,3.0,4.0
+782,"Riverside Drive, Riverside, Westlands",85000.0,2.0,2.0,2.0
+783,other,85000.0,4.0,4.0,4.0
+784,"Westlands Area, Westlands",85000.0,21780.0,3.0,3.0
+785,"Kilimani, Dagoretti North",85000.0,100.0,3.0,2.0
+786,other,85000.0,2023.0,3.0,3.0
+787,other,85000.0,3.0,3.0,2.0
+788,other,85000.0,3.0,3.0,4.0
+789,"Kileleshwa, Dagoretti North",85000.0,1.0,1.0,2.0
+790,"Brookside, Westlands",85000.0,3.0,3.0,3.0
+791,other,85000.0,3.0,3.0,5.0
+792,other,85000.0,2.0,2.0,2.0
+793,other,85000.0,3.0,3.0,3.0
+794,other,85000.0,186.0,3.0,3.0
+795,other,85000.0,3.0,3.0,3.0
+796,"Kilimani, Dagoretti North",85000.0,3.0,3.0,3.0
+797,other,85000.0,23.0,3.0,4.0
+798,other,85000.0,2.0,2.0,2.0
+799,other,85000.0,3.0,3.0,2.0
+800,other,85000.0,1.0,1.0,2.0
+801,"Kilimani, Dagoretti North",85000.0,2.0,2.0,3.0
+802,"Lavington, Dagoretti North",85000.0,2.0,2.0,2.0
+803,"Kilimani, Dagoretti North",85000.0,2.0,2.0,3.0
+804,other,85000.0,2.0,2.0,2.0
+805,other,85000.0,162.0,4.0,4.0
+806,other,85000.0,1.0,1.0,1.0
+807,other,85000.0,125.0,3.0,2.0
+808,other,85000.0,3.0,3.0,2.0
+809,other,85000.0,3.0,3.0,4.0
+810,other,85000.0,2.0,2.0,2.0
+811,other,85000.0,2.0,2.0,3.0
+812,other,85000.0,2024.0,3.0,3.0
+813,"Kilimani, Dagoretti North",85000.0,3.0,3.0,2.0
+814,other,85000.0,2.0,2.0,2.0
+815,other,85000.0,2.0,2.0,2.0
+816,other,85000.0,3.0,3.0,3.0
+817,"Rhapta Road, Westlands",85000.0,150.0,3.0,3.0
+818,"Kileleshwa, Dagoretti North",86000.0,3.0,3.0,2.0
+819,"Kileleshwa, Dagoretti North",86000.0,3.0,3.0,3.0
+820,"Parklands, Westlands",87000.0,3.0,3.0,2.0
+821,"Westlands Area, Westlands",87000.0,2.0,2.0,2.0
+822,other,88000.0,2500.0,3.0,4.0
+823,other,88000.0,2645.0,3.0,4.0
+824,other,88000.0,160.0,3.0,3.0
+825,other,88000.0,2500.0,3.0,4.0
+826,"Westlands Area, Westlands",89000.0,3.0,3.0,1.0
+827,other,89996.0,120.0,2.0,1.0
+828,other,90000.0,1.0,1.0,1.0
+829,other,90000.0,1.0,1.0,2.0
+830,other,90000.0,4047.0,1.0,1.0
+831,other,90000.0,186.0,3.0,3.0
+832,other,90000.0,186.0,3.0,3.0
+833,"Kilimani, Dagoretti North",90000.0,3.0,3.0,4.0
+834,"Kilimani, Dagoretti North",90000.0,140.0,3.0,4.0
+835,"Kilimani, Dagoretti North",90000.0,297.0,3.0,4.0
+836,other,90000.0,13.0,2.0,2.0
+837,other,90000.0,250.0,3.0,3.0
+838,"Kilimani, Dagoretti North",90000.0,2.0,2.0,3.0
+839,"Lavington, Dagoretti North",90000.0,3.0,3.0,2.0
+840,other,90000.0,2.0,2.0,2.0
+841,"Lavington, Dagoretti North",90000.0,3.0,3.0,2.0
+842,"Kilimani, Dagoretti North",90000.0,3.0,3.0,2.0
+843,"Brookside, Westlands",90000.0,2.0,2.0,2.0
+844,"kilimani, Kilimani, Kilimani, Dagoretti North",90000.0,3.0,3.0,3.0
+845,"kilimani, Kilimani, Kilimani, Dagoretti North",90000.0,2.0,2.0,2.0
+846,"kilimani, kilimani, Kilimani, Dagoretti North",90000.0,2.0,2.0,2.0
+847,other,90000.0,3.0,3.0,3.0
+848,other,90000.0,2.0,2.0,2.0
+849,other,90000.0,1400.0,2.0,3.0
+850,other,90000.0,2.0,2.0,2.0
+851,"Kileleshwa, Dagoretti North",90000.0,3.0,3.0,2.0
+852,"Lavington, Dagoretti North",90000.0,3.0,3.0,2.0
+853,"Parklands, Westlands",90000.0,2500.0,3.0,3.0
+854,"Kilimani, Dagoretti North",90000.0,3.0,3.0,2.0
+855,"Waiyaki Way, Westlands",90000.0,2.0,2.0,2.0
+856,"Kiambu Road, Kiambu Road",90000.0,2.0,2.0,2.0
+857,other,90000.0,4.0,4.0,4.0
+858,other,90000.0,1.0,1.0,2.0
+859,"Waiyaki Way, Westlands",90000.0,2.0,2.0,2.0
+860,"Westlands Area, Westlands",90000.0,3.0,3.0,2.0
+861,other,90000.0,3.0,3.0,4.0
+862,other,90000.0,3.0,3.0,4.0
+863,"Kilimani, Dagoretti North",90000.0,2.0,2.0,2.0
+864,other,90000.0,3.0,3.0,2.0
+865,"Riverside, Westlands",90000.0,3.0,3.0,2.0
+866,other,90000.0,1.0,1.0,2.0
+867,"Kilimani, Dagoretti North",90000.0,3.0,3.0,3.0
+868,"Ruaka, Kiambaa",90000.0,3.0,3.0,2.0
+869,"Riverside, Westlands",90000.0,3.0,3.0,3.0
+870,"Riverside, Westlands",90000.0,3.0,3.0,3.0
+871,"Lavington, Dagoretti North",90000.0,200.0,3.0,2.0
+872,"Riverside, Westlands",90000.0,3.0,3.0,2.0
+873,other,90000.0,3.0,3.0,2.0
+874,other,90000.0,105.0,2.0,2.0
+875,other,90000.0,186.0,3.0,3.0
+876,"Kileleshwa, Dagoretti North",90000.0,1.0,1.0,1.0
+877,"Lavington, Dagoretti North",90000.0,130.0,2.0,3.0
+878,other,90000.0,3.0,3.0,3.0
+879,"kilimani, Kilimani, Kilimani, Dagoretti North",90000.0,3.0,3.0,2.0
+880,other,90000.0,3.0,3.0,2.0
+881,other,90000.0,140.0,2.0,3.0
+882,other,90000.0,1.0,1.0,2.0
+883,other,90000.0,3.0,3.0,4.0
+884,"Kilimani, Dagoretti North",90000.0,250.0,3.0,3.0
+885,"Lavington, Dagoretti North",90000.0,232.0,3.0,2.0
+886,other,90000.0,110.0,2.0,2.0
+887,other,90000.0,3.0,3.0,3.0
+888,other,90000.0,3.0,3.0,3.0
+889,"Kilimani, Dagoretti North",90000.0,3.0,3.0,2.0
+890,other,90000.0,3.0,3.0,3.0
+891,"Kileleshwa, Dagoretti North",90000.0,3.0,3.0,2.0
+892,other,90000.0,250.0,3.0,3.0
+893,"Kilimani, Dagoretti North",90000.0,3.0,3.0,3.0
+894,"Ngong Road, Ngong Road",90000.0,3.0,3.0,4.0
+895,"Kilimani, Dagoretti North",90000.0,3.0,3.0,2.0
+896,"kilimani, Kilimani, Kilimani, Dagoretti North",90000.0,3.0,3.0,2.0
+897,"kilimani, kilimani, Kilimani, Dagoretti North",90000.0,3.0,3.0,2.0
+898,"Rhapta Road, Westlands",90000.0,2.0,2.0,2.0
+899,"Ngong Road, Ngong Road",90000.0,3.0,3.0,3.0
+900,"Riverside Drive, Riverside, Westlands",90000.0,1.0,1.0,2.0
+901,other,90000.0,9.0,1.0,2.0
+902,"Riverside, Westlands",90000.0,9.0,1.0,2.0
+903,other,90000.0,1400.0,2.0,3.0
+904,"Westlands Area, Westlands",90000.0,3.0,3.0,2.0
+905,"Kilimani, Dagoretti North",90000.0,2.0,2.0,3.0
+906,"Westlands Area, Westlands",90000.0,3.0,3.0,3.0
+907,"Lavington, Dagoretti North",90000.0,3.0,3.0,3.0
+908,other,90000.0,3.0,3.0,2.0
+909,other,90000.0,3.0,3.0,5.0
+910,other,90000.0,3.0,3.0,3.0
+911,"Kileleshwa, Dagoretti North",90000.0,3.0,3.0,3.0
+912,other,90000.0,2.0,2.0,2.0
+913,other,90000.0,94.0,2.0,3.0
+914,other,90000.0,2.0,2.0,2.0
+915,"Kilimani, Dagoretti North",90000.0,3.0,3.0,2.0
+916,"Kileleshwa, Dagoretti North",90000.0,2.0,2.0,2.0
+917,other,90000.0,3.0,3.0,3.0
+918,other,90000.0,3.0,3.0,3.0
+919,other,90000.0,3.0,3.0,3.0
+920,other,90000.0,220.0,3.0,3.0
+921,other,90000.0,11.0,3.0,2.0
+922,"Westlands Area, Westlands",90000.0,1.0,1.0,1.0
+923,"Lavington, Dagoretti North",90000.0,4.0,4.0,5.0
+924,"Kilimani, Dagoretti North",90000.0,150.0,2.0,2.0
+925,"Lavington, Dagoretti North",90000.0,1.0,1.0,2.0
+926,"Riverside Drive, Riverside, Westlands",90000.0,1.0,1.0,1.0
+927,other,90000.0,2.0,2.0,2.0
+928,other,90000.0,167.0,3.0,2.0
+929,other,90000.0,3.0,3.0,3.0
+930,"Rhapta Road, Westlands",90000.0,3.0,3.0,3.0
+931,other,90000.0,3.0,3.0,4.0
+932,other,90000.0,4.0,4.0,5.0
+933,"Kileleshwa, Dagoretti North",90000.0,3.0,3.0,3.0
+934,other,90000.0,4.0,4.0,4.0
+935,"Kileleshwa, Dagoretti North",90000.0,2.0,2.0,2.0
+936,other,95000.0,185.0,3.0,3.0
+937,"Westlands Area, Westlands",95000.0,2.0,2.0,2.0
+938,"Kilimani, Dagoretti North",95000.0,156.0,3.0,3.0
+939,"Riverside Drive, Riverside, Westlands",95000.0,7.0,1.0,1.0
+940,other,95000.0,149.0,2.0,2.0
+941,"Kilimani, Dagoretti North",95000.0,4.0,4.0,4.0
+942,"Rhapta Road, Westlands",95000.0,2.0,2.0,2.0
+943,"Kilimani, Dagoretti North",95000.0,2.0,2.0,2.0
+944,"Lavington, Dagoretti North",95000.0,3.0,3.0,2.0
+945,other,95000.0,3.0,3.0,2.0
+946,"kilimani, Kilimani, Kilimani, Dagoretti North",95000.0,3.0,3.0,2.0
+947,"kilimani, Kilimani, Kilimani, Dagoretti North",95000.0,3.0,3.0,3.0
+948,"kilimani, kilimani, Kilimani, Dagoretti North",95000.0,3.0,3.0,3.0
+949,other,95000.0,2.0,2.0,2.0
+950,other,95000.0,2.0,2.0,2.0
+951,"Kileleshwa, Dagoretti North",95000.0,2.0,2.0,2.0
+952,"Westlands Area, Westlands",95000.0,2.0,2.0,2.0
+953,other,95000.0,186.0,3.0,2.0
+954,other,95000.0,2.0,2.0,2.0
+955,other,95000.0,2.0,2.0,2.0
+956,other,95000.0,2.0,2.0,2.0
+957,other,95000.0,7.0,1.0,1.0
+958,"Riverside Drive, Riverside, Westlands",95000.0,8.0,1.0,1.0
+959,other,95000.0,3.0,3.0,4.0
+960,"Kilimani, Dagoretti North",95000.0,3.0,3.0,2.0
+961,"kilimani, Kilimani, Kilimani, Dagoretti North",95000.0,3.0,3.0,2.0
+962,"kilimani, kilimani, Kilimani, Dagoretti North",95000.0,3.0,3.0,2.0
+963,other,95000.0,1.0,1.0,1.0
+964,other,95000.0,3.0,3.0,3.0
+965,"Westlands Area, Westlands",95000.0,1.0,1.0,1.0
+966,"Kileleshwa, Dagoretti North",95000.0,3.0,3.0,2.0
+967,other,95000.0,3.0,3.0,2.0
+968,other,95000.0,95.0,2.0,2.0
+969,other,95000.0,108.0,2.0,2.0
+970,"Waiyaki Way, Westlands",95000.0,3.0,3.0,2.0
+971,"Lavington, Dagoretti North",95000.0,3.0,3.0,3.0
+972,other,95000.0,3.0,3.0,4.0
+973,"Kileleshwa, Dagoretti North",95000.0,4047.0,3.0,2.0
+974,other,95000.0,120.0,1.0,1.0
+975,other,95000.0,130.0,2.0,2.0
+976,"Waiyaki Way, Westlands",95000.0,4.0,4.0,2.0
+977,"Kilimani, Dagoretti North",95000.0,3.0,3.0,3.0
+978,"kilimani, kilimani, Kilimani, Dagoretti North",95000.0,3.0,3.0,3.0
+979,"kilimani, kilimani, Kilimani, Dagoretti North",95000.0,3.0,3.0,3.0
+980,"Kilimani, Dagoretti North",95000.0,4.0,4.0,5.0
+981,other,95000.0,170.0,3.0,3.0
+982,other,95000.0,3.0,3.0,4.0
+983,"Kileleshwa, Dagoretti North",95000.0,3.0,3.0,2.0
+984,"Kileleshwa, Dagoretti North",95000.0,3.0,3.0,2.0
+985,other,95000.0,2.0,2.0,2.0
+986,"Lavington, Dagoretti North",95000.0,3.0,3.0,3.0
+987,other,96000.0,4.0,4.0,2.0
+988,other,98000.0,150.0,3.0,3.0
+989,other,98000.0,3.0,3.0,3.0
+990,other,98000.0,4.0,4.0,4.0
+991,"Kilimani, Dagoretti North",98000.0,3.0,3.0,4.0
+992,other,98000.0,3.0,3.0,3.0
+993,other,98000.0,3.0,3.0,3.0
+994,other,100000.0,3.0,3.0,2.0
+995,"Kilimani, Dagoretti North",100000.0,300.0,3.0,4.0
+996,"Kilimani, Dagoretti North",100000.0,14.0,2.0,2.0
+997,"Lavington, Dagoretti North",100000.0,3.0,3.0,2.0
+998,"Kileleshwa, Dagoretti North",100000.0,170.0,3.0,4.0
+999,"Kileleshwa, Dagoretti North",100000.0,230.0,3.0,4.0
+1000,"Riverside, Westlands",100000.0,23.0,3.0,3.0
+1001,other,100000.0,250.0,3.0,3.0
+1002,other,100000.0,120.0,1.0,1.0
+1003,other,100000.0,1.0,1.0,1.0
+1004,other,100000.0,5.0,5.0,6.0
+1005,"Kilimani, Dagoretti North",100000.0,2.0,2.0,2.0
+1006,other,100000.0,3.0,3.0,4.0
+1007,other,100000.0,260.0,3.0,4.0
+1008,other,100000.0,3.0,3.0,4.0
+1009,other,100000.0,1.0,1.0,1.0
+1010,other,100000.0,2700.0,3.0,4.0
+1011,other,100000.0,4.0,4.0,2.0
+1012,"kilimani, Kilimani, Kilimani, Dagoretti North",100000.0,3.0,3.0,2.0
+1013,"kilimani, Kilimani, Kilimani, Dagoretti North",100000.0,3.0,3.0,3.0
+1014,"Rhapta Road, Westlands",100000.0,21780.0,3.0,3.0
+1015,"Parklands, Westlands",100000.0,4.0,4.0,3.0
+1016,"Waiyaki Way, Westlands",100000.0,3.0,3.0,2.0
+1017,other,100000.0,180.0,3.0,4.0
+1018,"Lavington, Dagoretti North",100000.0,160.0,3.0,5.0
+1019,other,100000.0,260.0,3.0,4.0
+1020,other,100000.0,3.0,3.0,4.0
+1021,other,100000.0,1.0,1.0,1.0
+1022,other,100000.0,4.0,4.0,2.0
+1023,"Waiyaki Way, Westlands",100000.0,3.0,3.0,3.0
+1024,"Rhapta Road, Westlands",100000.0,2.0,2.0,2.0
+1025,"Westlands Area, Westlands",100000.0,3.0,3.0,2.0
+1026,"Parklands, Westlands",100000.0,3.0,3.0,2.0
+1027,"Rhapta Road, Westlands",100000.0,3.0,3.0,4.0
+1028,other,100000.0,3.0,3.0,3.0
+1029,other,100000.0,2.0,2.0,2.0
+1030,other,100000.0,3.0,3.0,2.0
+1031,other,100000.0,3.0,3.0,3.0
+1032,other,100000.0,3.0,3.0,3.0
+1033,other,100000.0,2.0,2.0,3.0
+1034,"Parklands, Westlands",100000.0,3.0,3.0,2.0
+1035,"Lavington, Dagoretti North",100000.0,3.0,3.0,3.0
+1036,other,100000.0,3.0,3.0,3.0
+1037,"Parklands, Westlands",100000.0,3.0,3.0,2.0
+1038,other,100000.0,4.0,4.0,3.0
+1039,"Kilimani, Dagoretti North",100000.0,4.0,4.0,2.0
+1040,other,100000.0,121.0,3.0,2.0
+1041,other,100000.0,14.0,2.0,3.0
+1042,other,100000.0,1.0,1.0,1.0
+1043,"Lavington, Dagoretti North",100000.0,3.0,3.0,4.0
+1044,"Westlands Area, Westlands",100000.0,4.0,4.0,3.0
+1045,"Westlands Area, Westlands",100000.0,3.0,3.0,2.0
+1046,"Kileleshwa, Dagoretti North",100000.0,2.0,2.0,2.0
+1047,"Westlands Area, Westlands",100000.0,2.0,2.0,1.0
+1048,"Lavington, Dagoretti North",100000.0,4.0,4.0,4.0
+1049,other,100000.0,3.0,3.0,3.0
+1050,other,100000.0,3.0,3.0,2.0
+1051,"kilimani, Kilimani, Kilimani, Dagoretti North",100000.0,3.0,3.0,2.0
+1052,"kilimani, Kilimani, Kilimani, Dagoretti North",100000.0,4.0,4.0,4.0
+1053,"lavington, Lavington, Lavington, Dagoretti North",100000.0,3.0,3.0,3.0
+1054,"kilimani, Kilimani, Kilimani, Dagoretti North",100000.0,3.0,3.0,3.0
+1055,"kilimani, kilimani, Kilimani, Dagoretti North",100000.0,3.0,3.0,3.0
+1056,"Westlands Area, Westlands",100000.0,3.0,3.0,2.0
+1057,other,100000.0,2.0,2.0,2.0
+1058,other,100000.0,158.0,3.0,2.0
+1059,other,100000.0,2500.0,2.0,2.0
+1060,other,100000.0,124.0,2.0,3.0
+1061,other,100000.0,3.0,3.0,2.0
+1062,other,100000.0,2.0,2.0,3.0
+1063,"Westlands Area, Westlands",100000.0,3.0,3.0,3.0
+1064,"Westlands Area, Westlands",100000.0,2.0,2.0,2.0
+1065,"Waiyaki Way, Westlands",100000.0,2.0,2.0,2.0
+1066,other,100000.0,2.0,2.0,2.0
+1067,other,100000.0,1.0,1.0,1.0
+1068,"Westlands Area, Westlands",100000.0,186.0,3.0,3.0
+1069,other,100000.0,2.0,2.0,2.0
+1070,"Kilimani, Dagoretti North",100000.0,3.0,3.0,2.0
+1071,"Kilimani, Dagoretti North",100000.0,3.0,3.0,4.0
+1072,other,100000.0,3.0,3.0,3.0
+1073,"Riverside, Westlands",100000.0,3.0,3.0,2.0
+1074,other,100000.0,2.0,2.0,3.0
+1075,other,100000.0,3.0,3.0,2.0
+1076,"Rhapta Road, Westlands Area, Westlands",100000.0,120.0,1.0,2.0
+1077,other,100000.0,2.0,2.0,1.0
+1078,"Riverside, Westlands",100000.0,4.0,4.0,4.0
+1079,"Brookside, Westlands",100000.0,3.0,3.0,2.0
+1080,"Westlands Area, Westlands",100000.0,2.0,2.0,2.0
+1081,"Kileleshwa, Dagoretti North",100000.0,2.0,2.0,2.0
+1082,"Brookside, Westlands",100000.0,3.0,3.0,3.0
+1083,"Kileleshwa, Dagoretti North",100000.0,3.0,3.0,3.0
+1084,"Brookside, Westlands",100000.0,3.0,3.0,3.0
+1085,other,100000.0,3.0,3.0,3.0
+1086,"Parklands, Westlands",100000.0,4.0,4.0,4.0
+1087,"Westlands Area, Westlands",100000.0,120.0,2.0,2.0
+1088,other,100000.0,2.0,2.0,2.0
+1089,other,100000.0,3.0,3.0,2.0
+1090,"Kilimani, Dagoretti North",100000.0,2024.0,3.0,3.0
+1091,other,100000.0,1.0,1.0,1.0
+1092,other,100000.0,2.0,2.0,2.0
+1093,other,100000.0,1.0,1.0,1.0
+1094,other,100000.0,23.0,3.0,3.0
+1095,other,100000.0,12.0,2.0,2.0
+1096,other,100000.0,3.0,3.0,3.0
+1097,"kilimani, kilimani, Kilimani, Dagoretti North",100000.0,3.0,3.0,3.0
+1098,other,100000.0,3.0,3.0,3.0
+1099,other,100000.0,2.0,2.0,2.0
+1100,"Kilimani, Dagoretti North",100000.0,3.0,3.0,2.0
+1101,"Parklands, Westlands",100000.0,3.0,3.0,2.0
+1102,other,100000.0,2480.0,3.0,4.0
+1103,other,100000.0,1.0,1.0,2.0
+1104,"Kilimani, Dagoretti North",100000.0,1.0,1.0,1.0
+1105,other,100000.0,160.0,3.0,4.0
+1106,other,100000.0,4.0,4.0,4.0
+1107,other,100000.0,3.0,3.0,3.0
+1108,other,100000.0,3.0,3.0,3.0
+1109,"General Mathenge, Westlands",100000.0,3.0,3.0,2.0
+1110,other,100000.0,3.0,3.0,4.0
+1111,"Westlands Area, Westlands",100000.0,2.0,2.0,2.0
+1112,other,100000.0,1.0,1.0,2.0
+1113,"Kileleshwa, Dagoretti North",100000.0,1.0,1.0,1.0
+1114,"Kileleshwa, Dagoretti North",100000.0,2.0,2.0,2.0
+1115,"Kileleshwa, Dagoretti North",100000.0,2.0,2.0,2.0
+1116,"Kilimani, Dagoretti North",100000.0,3.0,3.0,2.0
+1117,other,100000.0,1.0,1.0,1.0
+1118,other,100000.0,2.0,2.0,2.0
+1119,"Kileleshwa, Dagoretti North",100000.0,3.0,3.0,3.0
+1120,other,100000.0,4.0,4.0,4.0
+1121,"Lavington, Dagoretti North",100000.0,3.0,3.0,2.0
+1122,other,100000.0,186.0,4.0,4.0
+1123,"Parklands, Westlands",100000.0,3.0,3.0,3.0
+1124,other,100000.0,1.0,1.0,2.0
+1125,other,100000.0,3.0,3.0,4.0
+1126,other,102000.0,3.0,3.0,2.0
+1127,other,105000.0,86.0,1.0,2.0
+1128,"Kileleshwa, Dagoretti North",105000.0,2.0,2.0,2.0
+1129,other,105000.0,1.0,1.0,1.0
+1130,"Brookside, Westlands",110000.0,2.0,2.0,2.0
+1131,"Kilimani, Dagoretti North",110000.0,3.0,3.0,2.0
+1132,"Rhapta Road, Westlands",110000.0,3.0,3.0,4.0
+1133,"Kilimani, Dagoretti North",110000.0,3.0,3.0,3.0
+1134,other,110000.0,167.0,1.0,2.0
+1135,"Kilimani, Dagoretti North",110000.0,3.0,3.0,2.0
+1136,other,110000.0,90.0,1.0,1.0
+1137,other,110000.0,220.0,3.0,3.0
+1138,other,110000.0,2500.0,3.0,3.0
+1139,other,110000.0,3.0,3.0,4.0
+1140,"lavington, Lavington, Lavington, Dagoretti North",110000.0,3.0,3.0,2.0
+1141,"kilimani, Kilimani, Kilimani, Dagoretti North",110000.0,3.0,3.0,3.0
+1142,other,110000.0,3.0,3.0,3.0
+1143,other,110000.0,3.0,3.0,4.0
+1144,other,110000.0,3.0,3.0,2.0
+1145,other,110000.0,4.0,4.0,3.0
+1146,"General Mathenge, Westlands",110000.0,2.0,2.0,2.0
+1147,"Parklands, Westlands",110000.0,3.0,3.0,3.0
+1148,"Riverside Drive, Riverside, Westlands",110000.0,22.0,3.0,3.0
+1149,"Lavington, Dagoretti North",110000.0,150.0,3.0,4.0
+1150,"Riverside Drive, Riverside, Westlands",110000.0,3.0,3.0,3.0
+1151,"Kilimani, Dagoretti North",110000.0,3.0,3.0,4.0
+1152,"Westlands Area, Westlands",110000.0,4.0,4.0,2.0
+1153,other,110000.0,1.0,1.0,1.0
+1154,other,110000.0,3.0,3.0,3.0
+1155,other,110000.0,2.0,2.0,2.0
+1156,other,110000.0,90.0,1.0,1.0
+1157,other,110000.0,3.0,3.0,3.0
+1158,other,110000.0,167.0,2.0,2.0
+1159,"kilimani, Kilimani, Kilimani, Dagoretti North",110000.0,3.0,3.0,3.0
+1160,other,110000.0,4.0,4.0,3.0
+1161,other,110000.0,3.0,3.0,3.0
+1162,"Lavington, Dagoretti North",110000.0,1.0,1.0,1.0
+1163,"Westlands Area, Westlands",110000.0,1.0,1.0,2.0
+1164,"Ngong Road, Ngong Road",110000.0,6.0,6.0,6.0
+1165,other,110000.0,3.0,3.0,2.0
+1166,other,110000.0,2025.0,3.0,3.0
+1167,other,110000.0,3.0,3.0,4.0
+1168,other,110000.0,4.0,4.0,3.0
+1169,other,110000.0,3.0,3.0,4.0
+1170,other,110000.0,91.0,2.0,2.0
+1171,"Rhapta Road, Westlands",110000.0,1.0,1.0,1.0
+1172,other,110000.0,3.0,3.0,4.0
+1173,other,110000.0,3.0,3.0,3.0
+1174,"Riverside, Westlands",110000.0,418.0,3.0,3.0
+1175,other,110000.0,2.0,2.0,2.0
+1176,"Lavington, Dagoretti North",110000.0,180.0,3.0,4.0
+1177,"Riverside, Westlands",110000.0,175.0,3.0,4.0
+1178,"Westlands Area, Westlands",110000.0,160.0,3.0,4.0
+1179,"Parklands, Westlands",110000.0,242.0,3.0,2.0
+1180,other,110000.0,200.0,3.0,3.0
+1181,"Kilimani, Dagoretti North",110000.0,3.0,3.0,2.0
+1182,"Lavington, Dagoretti North",110000.0,250.0,4.0,2.0
+1183,other,110000.0,220.0,3.0,3.0
+1184,"Kilimani, Dagoretti North",110000.0,140.0,2.0,2.0
+1185,other,110000.0,4.0,4.0,3.0
+1186,"kilimani, kilimani, Kilimani, Dagoretti North",110000.0,3.0,3.0,3.0
+1187,other,110000.0,3.0,3.0,4.0
+1188,"Brookside, Westlands",110000.0,4.0,4.0,3.0
+1189,"Kilimani, Dagoretti North",110000.0,3.0,3.0,2.0
+1190,"Westlands Area, Westlands",110000.0,1.0,1.0,2.0
+1191,"Riverside, Westlands",110000.0,3.0,3.0,2.0
+1192,"Lavington, Dagoretti North",110000.0,3.0,3.0,2.0
+1193,"Westlands Area, Westlands",110000.0,1.0,1.0,2.0
+1194,other,110000.0,1842.0,3.0,2.0
+1195,"Kileleshwa, Dagoretti North",110000.0,3.0,3.0,3.0
+1196,"Kilimani, Dagoretti North",110000.0,2.0,2.0,2.0
+1197,other,110000.0,3.0,3.0,5.0
+1198,other,110000.0,4.0,4.0,4.0
+1199,other,110000.0,3.0,3.0,2.0
+1200,other,110000.0,1.0,1.0,1.0
+1201,"Westlands Area, Westlands",110000.0,163.0,1.0,1.0
+1202,"Rhapta Road, Westlands Area, Westlands",110000.0,180.0,2.0,3.0
+1203,"Rhapta Road, Westlands Area, Westlands",110000.0,170.0,2.0,3.0
+1204,other,110000.0,1.0,1.0,1.0
+1205,"Rhapta Road, Westlands",110000.0,3.0,3.0,4.0
+1206,"Lavington, Dagoretti North",110000.0,3.0,3.0,2.0
+1207,"Kilimani, Dagoretti North",110000.0,2.0,2.0,2.0
+1208,"Rhapta Road, Westlands",110000.0,3.0,3.0,4.0
+1209,"Lavington, Dagoretti North",110000.0,3.0,3.0,2.0
+1210,"Kileleshwa, Dagoretti North",112000.0,3.0,3.0,3.0
+1211,other,112500.0,210.0,3.0,3.0
+1212,other,115000.0,3.0,3.0,3.0
+1213,other,115000.0,223.0,3.0,3.0
+1214,"Parklands, Westlands",115000.0,3.0,3.0,2.0
+1215,other,115000.0,3.0,3.0,3.0
+1216,"Westlands Area, Westlands",115000.0,3.0,3.0,2.0
+1217,"Waiyaki Way, Westlands",115000.0,2.0,2.0,2.0
+1218,"Parklands, Westlands",115000.0,4.0,4.0,2.0
+1219,"Kilimani, Dagoretti North",115000.0,3.0,3.0,4.0
+1220,"Riverside, Westlands",115000.0,3.0,3.0,2.0
+1221,other,115000.0,19.0,1.0,2.0
+1222,"Westlands Area, Westlands",115000.0,3.0,3.0,3.0
+1223,"Kilimani, Dagoretti North",115000.0,3.0,3.0,4.0
+1224,other,115000.0,3.0,3.0,2.0
+1225,"Kilimani, Dagoretti North",115000.0,2.0,2.0,2.0
+1226,other,115000.0,3.0,3.0,3.0
+1227,other,115000.0,3.0,3.0,3.0
+1228,"Westlands Area, Westlands",115000.0,3.0,3.0,3.0
+1229,"Kileleshwa, Dagoretti North",115000.0,3.0,3.0,4.0
+1230,"Kilimani, Dagoretti North",115000.0,220.0,3.0,3.0
+1231,"Kilimani, Dagoretti North",115000.0,3.0,3.0,2.0
+1232,"Lavington, Dagoretti North",115000.0,4.0,4.0,5.0
+1233,other,115000.0,3.0,3.0,3.0
+1234,other,115000.0,3.0,3.0,3.0
+1235,other,115000.0,3.0,3.0,3.0
+1236,other,115000.0,100.0,1.0,1.0
+1237,other,115000.0,223.0,3.0,4.0
+1238,"Lavington, Dagoretti North",118000.0,3.0,3.0,3.0
+1239,other,120000.0,3.0,3.0,2.0
+1240,other,120000.0,3.0,3.0,2.0
+1241,other,120000.0,2.0,2.0,2.0
+1242,other,120000.0,3.0,3.0,3.0
+1243,other,120000.0,3.0,3.0,3.0
+1244,"Lavington, Dagoretti North",120000.0,3.0,3.0,2.0
+1245,other,120000.0,279.0,4.0,4.0
+1246,other,120000.0,1.0,1.0,1.0
+1247,other,120000.0,3.0,3.0,2.0
+1248,other,120000.0,4.0,4.0,3.0
+1249,"General Mathenge, Westlands",120000.0,3.0,3.0,3.0
+1250,other,120000.0,2.0,2.0,3.0
+1251,"Lavington, Dagoretti North",120000.0,3.0,3.0,5.0
+1252,"Riverside, Westlands",120000.0,3.0,3.0,3.0
+1253,other,120000.0,223.0,3.0,2.0
+1254,other,120000.0,2.0,2.0,2.0
+1255,other,120000.0,2430.0,3.0,3.0
+1256,"Riverside, Westlands",120000.0,3.0,3.0,3.0
+1257,"General Mathenge, Westlands",120000.0,300.0,4.0,4.0
+1258,other,120000.0,4.0,4.0,2.0
+1259,"Kilimani, Dagoretti North",120000.0,2500.0,3.0,4.0
+1260,"Kileleshwa, Dagoretti North",120000.0,196.0,3.0,4.0
+1261,"Westlands Area, Westlands",120000.0,3.0,3.0,3.0
+1262,"Rhapta Road, Westlands Area, Westlands",120000.0,3.0,3.0,3.0
+1263,other,120000.0,200.0,3.0,3.0
+1264,"Waiyaki Way, Westlands",120000.0,2000.0,3.0,4.0
+1265,other,120000.0,3.0,3.0,3.0
+1266,other,120000.0,3.0,3.0,4.0
+1267,"Kileleshwa, Dagoretti North",120000.0,2.0,2.0,2.0
+1268,"Brookside, Westlands",120000.0,4.0,4.0,2.0
+1269,"Westlands Area, Westlands",120000.0,1.0,1.0,2.0
+1270,"Riverside, Westlands",120000.0,3.0,3.0,3.0
+1271,"Lavington, Dagoretti North",120000.0,3.0,3.0,3.0
+1272,other,120000.0,204.0,3.0,3.0
+1273,other,120000.0,2500.0,3.0,3.0
+1274,"Kilimani, Dagoretti North",120000.0,186.0,3.0,3.0
+1275,other,120000.0,8.0,1.0,1.0
+1276,other,120000.0,1.0,1.0,1.0
+1277,other,120000.0,3.0,3.0,3.0
+1278,other,120000.0,4.0,4.0,2.0
+1279,other,120000.0,3.0,3.0,2.0
+1280,"Kilimani, Dagoretti North",120000.0,2.0,2.0,2.0
+1281,"Westlands Area, Westlands",120000.0,3.0,3.0,2.0
+1282,"Riverside, Westlands",120000.0,3.0,3.0,2.0
+1283,"Riverside, Westlands",120000.0,3.0,3.0,2.0
+1284,other,120000.0,181.0,3.0,3.0
+1285,"Kileleshwa, Dagoretti North",120000.0,3.0,3.0,2.0
+1286,"Parklands, Westlands",120000.0,4.0,4.0,4.0
+1287,"Kilimani, Dagoretti North",120000.0,4.0,4.0,3.0
+1288,other,120000.0,1.0,1.0,1.0
+1289,other,120000.0,186.0,3.0,2.0
+1290,"Lavington, Dagoretti North",120000.0,3.0,3.0,3.0
+1291,"Riverside, Westlands",120000.0,2.0,2.0,2.0
+1292,other,120000.0,3.0,3.0,3.0
+1293,"Rhapta Road, Westlands",120000.0,3.0,3.0,3.0
+1294,other,120000.0,2940.0,3.0,4.0
+1295,"Kileleshwa, Dagoretti North",120000.0,3.0,3.0,2.0
+1296,other,120000.0,3.0,3.0,3.0
+1297,other,120000.0,3.0,3.0,3.0
+1298,other,120000.0,1.0,1.0,1.0
+1299,"Kilimani, Dagoretti North",120000.0,4.0,4.0,3.0
+1300,other,120000.0,186.0,3.0,2.0
+1301,other,120000.0,2.0,2.0,2.0
+1302,other,120000.0,3.0,3.0,2.0
+1303,"Rhapta Road, Westlands Area, Westlands",120000.0,240.0,3.0,4.0
+1304,"Rhapta Road, Westlands",120000.0,2500.0,3.0,4.0
+1305,other,120000.0,3.0,3.0,4.0
+1306,"Kilimani, Dagoretti North",120000.0,1.0,1.0,2.0
+1307,"Kilimani, Dagoretti North",120000.0,3.0,3.0,2.0
+1308,other,120000.0,3.0,3.0,3.0
+1309,"Kileleshwa, Dagoretti North",120000.0,3.0,3.0,3.0
+1310,"Lavington, Dagoretti North",120000.0,3.0,3.0,4.0
+1311,"Westlands Area, Westlands",120000.0,3.0,3.0,3.0
+1312,other,120000.0,90.0,1.0,1.0
+1313,other,120000.0,200.0,4.0,5.0
+1314,"General Mathenge, Westlands",120000.0,2.0,2.0,2.0
+1315,other,120000.0,3.0,3.0,3.0
+1316,other,120000.0,3.0,3.0,3.0
+1317,other,120000.0,2.0,2.0,2.0
+1318,other,120000.0,12.0,2.0,2.0
+1319,"Kileleshwa, Dagoretti North",120000.0,23.0,3.0,4.0
+1320,other,120000.0,4.0,4.0,4.0
+1321,"Kilimani, Dagoretti North",120000.0,3.0,3.0,4.0
+1322,other,120000.0,3.0,3.0,3.0
+1323,other,120000.0,1.0,1.0,1.0
+1324,"Westlands Area, Westlands",120000.0,3.0,3.0,2.0
+1325,"Lavington, Dagoretti North",120000.0,2.0,2.0,3.0
+1326,other,120000.0,150.0,4.0,3.0
+1327,other,120000.0,2860.0,3.0,4.0
+1328,other,120000.0,3.0,3.0,2.0
+1329,other,120000.0,150.0,3.0,3.0
+1330,other,120000.0,138.0,3.0,4.0
+1331,"Kilimani, Dagoretti North",120000.0,2.0,2.0,2.0
+1332,other,120000.0,3.0,3.0,3.0
+1333,other,120000.0,3.0,3.0,2.0
+1334,other,120000.0,3.0,3.0,3.0
+1335,other,120000.0,3.0,3.0,2.0
+1336,other,120000.0,2.0,2.0,2.0
+1337,"Westlands Area, Westlands",120000.0,1500.0,2.0,2.0
+1338,"Westlands Area, Westlands",120000.0,1500.0,2.0,2.0
+1339,"Westlands Area, Westlands",120000.0,2.0,2.0,2.0
+1340,"Westlands Area, Westlands",120000.0,20000.0,1.0,1.0
+1341,"Parklands, Westlands",120000.0,3.0,3.0,3.0
+1342,"Kileleshwa, Dagoretti North",120000.0,2.0,2.0,2.0
+1343,"Kileleshwa, Dagoretti North",120000.0,3.0,3.0,2.0
+1344,"Rhapta Road, Westlands Area, Westlands",120000.0,230.0,3.0,2.0
+1345,other,120000.0,3.0,3.0,3.0
+1346,"Kilimani, Dagoretti North",120000.0,4.0,4.0,2.0
+1347,"Kilimani, Dagoretti North",120000.0,1800.0,3.0,4.0
+1348,other,120000.0,186.0,3.0,2.0
+1349,"Riverside, Westlands",120000.0,3.0,3.0,4.0
+1350,"Kilimani, Dagoretti North",120000.0,1.0,1.0,2.0
+1351,"Westlands Area, Westlands",120000.0,4.0,4.0,2.0
+1352,"Riverside, Westlands",120000.0,4.0,4.0,4.0
+1353,other,120000.0,2.0,2.0,2.0
+1354,other,120000.0,2.0,2.0,2.0
+1355,"Westlands Area, Westlands",120000.0,2.0,2.0,2.0
+1356,"General Mathenge, Westlands",122000.0,3.0,3.0,4.0
+1357,"Rhapta Road, Westlands",123000.0,3.0,3.0,2.0
+1358,"General Mathenge, Westlands",125000.0,3.0,3.0,2.0
+1359,other,125000.0,3.0,3.0,3.0
+1360,other,125000.0,168.0,3.0,4.0
+1361,"Parklands, Westlands",125000.0,3.0,3.0,4.0
+1362,"Kilimani, Dagoretti North",125000.0,2.0,2.0,2.0
+1363,"Kileleshwa, Dagoretti North",125000.0,227.0,3.0,4.0
+1364,"kilimani, Kilimani, Kilimani, Dagoretti North",125000.0,3.0,3.0,3.0
+1365,other,125000.0,3.0,3.0,3.0
+1366,"Kilimani, Dagoretti North",125000.0,2.0,2.0,2.0
+1367,"Kilimani, Dagoretti North",125000.0,2.0,2.0,2.0
+1368,other,125000.0,3.0,3.0,4.0
+1369,other,125000.0,2.0,2.0,3.0
+1370,"Westlands Area, Westlands",125000.0,2.0,2.0,2.0
+1371,"Rhapta Road, Westlands",125000.0,4.0,4.0,5.0
+1372,"Lavington, Dagoretti North",125000.0,3.0,3.0,4.0
+1373,other,125000.0,220.0,3.0,4.0
+1374,"Rhapta Road, Westlands",125000.0,3.0,3.0,4.0
+1375,"Kilimani, Dagoretti North",125000.0,3.0,3.0,4.0
+1376,"Westlands Area, Westlands",125000.0,3.0,3.0,2.0
+1377,"Lavington, Dagoretti North",125000.0,3.0,3.0,4.0
+1378,"Riverside, Westlands",125000.0,3.0,3.0,4.0
+1379,"Westlands Area, Westlands",128000.0,3.0,3.0,3.0
+1380,other,130000.0,4.0,4.0,4.0
+1381,other,130000.0,22.0,3.0,3.0
+1382,other,130000.0,23.0,3.0,2.0
+1383,"Westlands Area, Westlands",130000.0,2137.0,3.0,3.0
+1384,"Westlands Area, Westlands",130000.0,3.0,3.0,3.0
+1385,other,130000.0,167.0,2.0,2.0
+1386,other,130000.0,2.0,2.0,2.0
+1387,other,130000.0,2.0,2.0,2.0
+1388,other,130000.0,2.0,2.0,2.0
+1389,"Rhapta Road, Westlands Area, Westlands",130000.0,232.0,3.0,2.0
+1390,other,130000.0,3.0,3.0,3.0
+1391,other,130000.0,3.0,3.0,4.0
+1392,other,130000.0,3.0,3.0,3.0
+1393,"Lavington, Dagoretti North",130000.0,2.0,2.0,2.0
+1394,"Brookside, Westlands",130000.0,300.0,3.0,3.0
+1395,"Westlands Area, Westlands",130000.0,3.0,3.0,3.0
+1396,"General Mathenge, Westlands",130000.0,3.0,3.0,3.0
+1397,other,130000.0,2.0,2.0,2.0
+1398,"Kilimani, Dagoretti North",130000.0,3.0,3.0,4.0
+1399,other,130000.0,2.0,2.0,3.0
+1400,"Rhapta Road, Westlands Area, Westlands",130000.0,4.0,4.0,3.0
+1401,"Westlands Area, Westlands",130000.0,218.0,3.0,4.0
+1402,other,130000.0,2.0,2.0,2.0
+1403,"Rhapta Road, Westlands Area, Westlands",130000.0,4.0,4.0,3.0
+1404,"Ngong Road, Ngong Road",130000.0,2.0,2.0,2.0
+1405,"Kileleshwa, Dagoretti North",130000.0,4.0,4.0,5.0
+1406,"Kilimani, Dagoretti North",130000.0,3.0,3.0,4.0
+1407,other,130000.0,3.0,3.0,3.0
+1408,other,130000.0,3.0,3.0,2.0
+1409,other,130000.0,210.0,4.0,4.0
+1410,"Riverside Drive, Riverside, Westlands",130000.0,130.0,2.0,2.0
+1411,other,130000.0,2787.0,2.0,2.0
+1412,"Riverside, Westlands",130000.0,230.0,3.0,3.0
+1413,other,130000.0,3.0,3.0,3.0
+1414,other,130000.0,2.0,2.0,2.0
+1415,other,130000.0,232.0,4.0,5.0
+1416,other,130000.0,2500.0,3.0,4.0
+1417,"Parklands, Westlands",130000.0,1.0,1.0,1.0
+1418,"Riverside, Westlands",130000.0,3.0,3.0,4.0
+1419,"Kilimani, Dagoretti North",130000.0,3.0,3.0,3.0
+1420,other,130000.0,3.0,3.0,2.0
+1421,other,130000.0,3.0,3.0,3.0
+1422,"Kileleshwa, Dagoretti North",130000.0,3.0,3.0,2.0
+1423,"Westlands Area, Westlands",130000.0,3.0,3.0,3.0
+1424,"Westlands Area, Westlands",130000.0,21000.0,3.0,3.0
+1425,other,130000.0,3.0,3.0,3.0
+1426,other,130000.0,180.0,3.0,3.0
+1427,other,130000.0,193.0,3.0,3.0
+1428,"Lavington, Dagoretti North",130000.0,3.0,3.0,3.0
+1429,"Riverside, Westlands",130000.0,180.0,3.0,4.0
+1430,"Kileleshwa, Dagoretti North",130000.0,180.0,3.0,4.0
+1431,"Riverside, Westlands",130000.0,2450.0,3.0,4.0
+1432,"Westlands Area, Westlands",130000.0,4.0,4.0,2.0
+1433,other,130000.0,120.0,1.0,2.0
+1434,"Riverside Drive, Riverside, Westlands",130000.0,230.0,3.0,4.0
+1435,other,130000.0,2.0,2.0,2.0
+1436,"Westlands Area, Westlands",130000.0,4.0,4.0,2.0
+1437,"Riverside, Westlands",130000.0,4.0,4.0,2.0
+1438,"Riverside, Westlands",130000.0,228.0,3.0,3.0
+1439,"Lavington, Dagoretti North",130000.0,2.0,2.0,2.0
+1440,"Riverside, Westlands",130000.0,2.0,2.0,2.0
+1441,other,130000.0,23.0,3.0,4.0
+1442,"Rhapta Road, Westlands",130000.0,2400.0,3.0,3.0
+1443,"Kilimani, Dagoretti North",130000.0,4.0,4.0,4.0
+1444,other,130000.0,2.0,2.0,2.0
+1445,other,130000.0,4.0,4.0,2.0
+1446,"Kilimani, Dagoretti North",130000.0,3.0,3.0,4.0
+1447,"Riverside Drive, Riverside, Westlands",130000.0,130.0,2.0,2.0
+1448,"Riverside Drive, Riverside, Westlands",130000.0,23.0,3.0,4.0
+1449,"Riverside Drive, Riverside, Westlands",130000.0,24.0,3.0,4.0
+1450,"Riverside Drive, Riverside, Westlands",130000.0,23.0,3.0,3.0
+1451,other,130000.0,242.0,3.0,4.0
+1452,"Kileleshwa, Dagoretti North",130000.0,3.0,3.0,2.0
+1453,other,130000.0,4.0,4.0,5.0
+1454,"Parklands, Westlands",130000.0,4.0,4.0,3.0
+1455,other,130000.0,2840.0,3.0,4.0
+1456,"Lavington, Dagoretti North",130000.0,2.0,2.0,2.0
+1457,other,130000.0,23.0,3.0,4.0
+1458,other,130000.0,1800.0,4.0,4.0
+1459,"Rhapta Road, Westlands",130000.0,2800.0,3.0,3.0
+1460,"General Mathenge, Westlands",130000.0,3.0,3.0,3.0
+1461,other,130000.0,140.0,2.0,3.0
+1462,"Lavington, Dagoretti North",130000.0,213.0,4.0,5.0
+1463,other,130000.0,180.0,3.0,4.0
+1464,other,130000.0,3.0,3.0,4.0
+1465,"Parklands, Westlands",130000.0,4.0,4.0,4.0
+1466,other,130000.0,3.0,3.0,2.0
+1467,"Lavington, Dagoretti North",130000.0,4.0,4.0,3.0
+1468,other,130000.0,220.0,3.0,4.0
+1469,"Lavington, Dagoretti North",130000.0,3.0,3.0,2.0
+1470,"Riverside, Westlands",130000.0,170.0,3.0,4.0
+1471,"Riverside, Westlands",130000.0,180.0,3.0,4.0
+1472,other,130000.0,3.0,3.0,4.0
+1473,other,130000.0,1.0,1.0,2.0
+1474,"Kileleshwa, Dagoretti North",130000.0,3.0,3.0,3.0
+1475,other,130000.0,186.0,3.0,3.0
+1476,"Riverside, Westlands",130000.0,3.0,3.0,4.0
+1477,other,132000.0,3.0,3.0,3.0
+1478,"Kilimani, Dagoretti North",132000.0,3.0,3.0,4.0
+1479,other,133000.0,1.0,1.0,2.0
+1480,"kilimani, Kilimani, Kilimani, Dagoretti North",135000.0,4.0,4.0,3.0
+1481,"Lavington, Dagoretti North",135000.0,279.0,3.0,3.0
+1482,"Waiyaki Way, Westlands",135000.0,4.0,4.0,3.0
+1483,"General Mathenge, Westlands",135000.0,260.0,3.0,4.0
+1484,"Kileleshwa, Dagoretti North",135000.0,258.0,3.0,4.0
+1485,"Kilimani, Dagoretti North",135000.0,227.0,3.0,4.0
+1486,other,135000.0,4.0,4.0,4.0
+1487,"Rhapta Road, Westlands Area, Westlands",135000.0,1.0,1.0,1.0
+1488,other,135000.0,150.0,2.0,2.0
+1489,other,135000.0,3.0,3.0,4.0
+1490,other,135000.0,2.0,2.0,3.0
+1491,"Lavington, Dagoretti North",135000.0,3.0,3.0,2.0
+1492,"Waiyaki Way, Westlands",135000.0,4.0,4.0,3.0
+1493,other,135000.0,3.0,3.0,3.0
+1494,"Westlands Area, Westlands",135000.0,2.0,2.0,2.0
+1495,other,135000.0,150.0,2.0,2.0
+1496,other,135000.0,260.0,4.0,2.0
+1497,"Rhapta Road, Westlands",136000.0,3.0,3.0,3.0
+1498,other,140000.0,23.0,3.0,2.0
+1499,"Riverside Drive, Riverside, Westlands",140000.0,7.0,1.0,1.0
+1500,other,140000.0,24.0,4.0,4.0
+1501,other,140000.0,23.0,3.0,3.0
+1502,other,140000.0,160.0,2.0,2.0
+1503,"Lavington, Dagoretti North",140000.0,279.0,3.0,4.0
+1504,"Lavington, Dagoretti North",140000.0,180.0,4.0,5.0
+1505,other,140000.0,2.0,2.0,2.0
+1506,other,140000.0,4047.0,1.0,1.0
+1507,"Riverside, Westlands",140000.0,2.0,2.0,2.0
+1508,other,140000.0,120.0,2.0,2.0
+1509,other,140000.0,3.0,3.0,5.0
+1510,other,140000.0,3.0,3.0,2.0
+1511,other,140000.0,3.0,3.0,5.0
+1512,other,140000.0,3.0,3.0,3.0
+1513,"Kilimani, Dagoretti North",140000.0,300.0,3.0,4.0
+1514,"Kileleshwa, Dagoretti North",140000.0,300.0,4.0,5.0
+1515,other,140000.0,1.0,1.0,1.0
+1516,"Parklands, Westlands",140000.0,3.0,3.0,2.0
+1517,"Waiyaki Way, Westlands",140000.0,4.0,4.0,3.0
+1518,other,140000.0,4.0,4.0,3.0
+1519,"Lavington, Dagoretti North",140000.0,1.0,1.0,2.0
+1520,"Rhapta Road, Westlands",140000.0,4.0,4.0,3.0
+1521,other,140000.0,2.0,2.0,2.0
+1522,other,140000.0,3.0,3.0,2.0
+1523,"Westlands Area, Westlands",140000.0,2.0,2.0,2.0
+1524,"Parklands, Westlands",140000.0,3.0,3.0,3.0
+1525,other,140000.0,3.0,3.0,3.0
+1526,other,140000.0,2.0,2.0,2.0
+1527,other,140000.0,13.0,2.0,2.0
+1528,other,140000.0,1.0,1.0,1.0
+1529,other,140000.0,2.0,2.0,2.0
+1530,other,140000.0,3.0,3.0,3.0
+1531,"Parklands, Westlands",140000.0,3.0,3.0,4.0
+1532,other,140000.0,3.0,3.0,3.0
+1533,other,140000.0,3.0,3.0,3.0
+1534,"Westlands Area, Westlands",140000.0,2023.0,3.0,3.0
+1535,"Kileleshwa, Dagoretti North",140000.0,3.0,3.0,2.0
+1536,other,140000.0,3.0,3.0,3.0
+1537,other,140000.0,3.0,3.0,3.0
+1538,"Riverside, Westlands",140000.0,3.0,3.0,3.0
+1539,"Lavington, Dagoretti North",140000.0,3.0,3.0,3.0
+1540,other,140000.0,3.0,3.0,5.0
+1541,"Kileleshwa, Dagoretti North",140000.0,1500.0,2.0,2.0
+1542,"Lavington, Dagoretti North",140000.0,3.0,3.0,4.0
+1543,"Kilimani, Dagoretti North",140000.0,2.0,2.0,2.0
+1544,"Waiyaki Way, Westlands",140000.0,2.0,2.0,2.0
+1545,"Riverside, Westlands",140000.0,186.0,2.0,2.0
+1546,"Kilimani, Dagoretti North",140000.0,3.0,3.0,2.0
+1547,"Kilimani, Dagoretti North",140000.0,111.0,2.0,2.0
+1548,"General Mathenge, Westlands",140000.0,3.0,3.0,2.0
+1549,other,140000.0,2.0,2.0,2.0
+1550,"General Mathenge, Westlands",140000.0,2.0,2.0,3.0
+1551,other,140000.0,262.0,3.0,3.0
+1552,other,140000.0,3.0,3.0,3.0
+1553,other,140000.0,3.0,3.0,4.0
+1554,"Riverside, Westlands",140000.0,4.0,4.0,3.0
+1555,"Westlands Area, Westlands",140000.0,20000.0,2.0,2.0
+1556,"Kilimani, Dagoretti North",140000.0,2.0,2.0,2.0
+1557,other,140000.0,4.0,4.0,4.0
+1558,"Riverside, Westlands",140000.0,3.0,3.0,4.0
+1559,other,145000.0,4.0,4.0,5.0
+1560,"Kilimani, Dagoretti North",145000.0,3.0,3.0,4.0
+1561,other,145000.0,3.0,3.0,3.0
+1562,other,145000.0,2400.0,3.0,3.0
+1563,"Riverside Drive, Riverside, Westlands",145000.0,3.0,3.0,5.0
+1564,"Parklands, Westlands",145000.0,4.0,4.0,4.0
+1565,other,145000.0,3.0,3.0,3.0
+1566,"Westlands Area, Westlands",145000.0,2.0,2.0,2.0
+1567,"Kilimani, Dagoretti North",145000.0,3.0,3.0,3.0
+1568,other,145000.0,3.0,3.0,3.0
+1569,other,150000.0,2.0,2.0,2.0
+1570,"Kilimani, Dagoretti North",150000.0,279.0,4.0,5.0
+1571,other,150000.0,24.0,4.0,4.0
+1572,other,150000.0,13.0,2.0,2.0
+1573,other,150000.0,2.0,2.0,2.0
+1574,"Riverside, Westlands",150000.0,3.0,3.0,3.0
+1575,"General Mathenge, Westlands",150000.0,3.0,3.0,2.0
+1576,other,150000.0,4.0,4.0,4.0
+1577,other,150000.0,4.0,4.0,5.0
+1578,other,150000.0,260.0,4.0,2.0
+1579,"Westlands Area, Westlands",150000.0,21000.0,4.0,4.0
+1580,other,150000.0,4.0,4.0,5.0
+1581,"Kileleshwa, Dagoretti North",150000.0,4.0,4.0,5.0
+1582,"Lavington, Dagoretti North",150000.0,200.0,2.0,2.0
+1583,"Kilimani, Dagoretti North",150000.0,2.0,2.0,2.0
+1584,other,150000.0,4.0,4.0,4.0
+1585,other,150000.0,260.0,4.0,2.0
+1586,"Westlands Area, Westlands",150000.0,4.0,4.0,3.0
+1587,other,150000.0,220.0,3.0,4.0
+1588,other,150000.0,2500.0,4.0,5.0
+1589,other,150000.0,270.0,3.0,4.0
+1590,"Waiyaki Way, Westlands",150000.0,2.0,2.0,2.0
+1591,"Kileleshwa, Dagoretti North",150000.0,4.0,4.0,2.0
+1592,"Riverside, Westlands",150000.0,3.0,3.0,4.0
+1593,other,150000.0,2.0,2.0,2.0
+1594,"Rhapta Road, Westlands",150000.0,3.0,3.0,3.0
+1595,other,150000.0,3.0,3.0,2.0
+1596,"Kilimani, Dagoretti North",150000.0,3.0,3.0,3.0
+1597,"Westlands Area, Westlands",150000.0,2.0,2.0,2.0
+1598,other,150000.0,2.0,2.0,2.0
+1599,other,150000.0,4.0,4.0,4.0
+1600,"Kilimani, Dagoretti North",150000.0,120.0,2.0,2.0
+1601,other,150000.0,111.0,1.0,1.0
+1602,other,150000.0,46.0,2.0,2.0
+1603,other,150000.0,23.0,3.0,4.0
+1604,other,150000.0,25.0,4.0,3.0
+1605,other,150000.0,2.0,2.0,3.0
+1606,"Kilimani, Dagoretti North",150000.0,4.0,4.0,5.0
+1607,other,150000.0,2.0,2.0,1.0
+1608,other,150000.0,3.0,3.0,4.0
+1609,other,150000.0,3.0,3.0,4.0
+1610,"Lavington, Dagoretti North",150000.0,3.0,3.0,2.0
+1611,"Lavington, Dagoretti North",150000.0,3.0,3.0,2.0
+1612,"Rhapta Road, Westlands",150000.0,4.0,4.0,2.0
+1613,"Kileleshwa, Dagoretti North",150000.0,3.0,3.0,3.0
+1614,other,150000.0,4.0,4.0,2.0
+1615,other,150000.0,2025.0,3.0,2.0
+1616,other,150000.0,290.0,4.0,5.0
+1617,other,150000.0,4.0,4.0,5.0
+1618,other,150000.0,3.0,3.0,4.0
+1619,other,150000.0,3.0,3.0,4.0
+1620,"Brookside, Westlands",150000.0,3.0,3.0,4.0
+1621,other,150000.0,3.0,3.0,3.0
+1622,"Kilimani, Dagoretti North",150000.0,3.0,3.0,3.0
+1623,"General Mathenge, Westlands",150000.0,2.0,2.0,3.0
+1624,other,150000.0,4.0,4.0,5.0
+1625,"Kileleshwa, Dagoretti North",150000.0,325.0,4.0,4.0
+1626,"Kiambu Road, Kiambu Road",150000.0,3.0,3.0,2.0
+1627,"Westlands Area, Westlands",150000.0,4.0,4.0,3.0
+1628,"Westlands Area, Westlands",150000.0,4.0,4.0,4.0
+1629,"Westlands Area, Westlands",150000.0,1.0,1.0,1.0
+1630,other,150000.0,80.0,2.0,2.0
+1631,other,150000.0,90.0,2.0,2.0
+1632,other,150000.0,150.0,2.0,2.0
+1633,other,150000.0,150.0,2.0,2.0
+1634,"Westlands Area, Westlands",150000.0,2.0,2.0,2.0
+1635,"Brookside, Westlands",150000.0,3.0,3.0,2.0
+1636,other,150000.0,3.0,3.0,2.0
+1637,"Kileleshwa, Dagoretti North",150000.0,2.0,2.0,2.0
+1638,"Westlands Area, Westlands",150000.0,2.0,2.0,2.0
+1639,"Kilimani, Dagoretti North",150000.0,3.0,3.0,3.0
+1640,"Westlands Area, Westlands",150000.0,2.0,2.0,3.0
+1641,other,150000.0,4.0,4.0,4.0
+1642,"Rhapta Road, Westlands",150000.0,3.0,3.0,4.0
+1643,"Westlands Area, Westlands",150000.0,4.0,4.0,4.0
+1644,other,150000.0,3.0,3.0,3.0
+1645,"Parklands, Westlands",150000.0,4.0,4.0,2.0
+1646,"Westlands Area, Westlands",150000.0,3.0,3.0,2.0
+1647,other,150000.0,23.0,3.0,3.0
+1648,other,150000.0,14.0,2.0,2.0
+1649,other,150000.0,3.0,3.0,2.0
+1650,other,150000.0,158.0,3.0,2.0
+1651,other,150000.0,3.0,3.0,3.0
+1652,other,150000.0,160.0,3.0,4.0
+1653,other,150000.0,2.0,2.0,2.0
+1654,other,150000.0,2.0,2.0,2.0
+1655,other,150000.0,3.0,3.0,2.0
+1656,other,150000.0,3.0,3.0,4.0
+1657,other,150000.0,3.0,3.0,2.0
+1658,other,150000.0,133.0,2.0,2.0
+1659,other,150000.0,4.0,4.0,3.0
+1660,other,150000.0,1.0,1.0,1.0
+1661,other,150000.0,3.0,3.0,3.0
+1662,"Kileleshwa, Dagoretti North",150000.0,4.0,4.0,4.0
+1663,"Westlands Area, Westlands",150000.0,4.0,4.0,4.0
+1664,"Westlands Area, Westlands",150000.0,2601.0,3.0,4.0
+1665,"Riverside, Westlands",150000.0,2.0,2.0,2.0
+1666,other,150000.0,3000.0,4.0,4.0
+1667,other,150000.0,3.0,3.0,2.0
+1668,"Kileleshwa, Dagoretti North",150000.0,3.0,3.0,4.0
+1669,"Lavington, Dagoretti North",150000.0,4.0,4.0,4.0
+1670,"Rhapta Road, Westlands",150000.0,3.0,3.0,3.0
+1671,other,150000.0,2.0,2.0,2.0
+1672,"Kilimani, Dagoretti North",150000.0,2.0,2.0,3.0
+1673,"Brookside, Westlands",150000.0,3.0,3.0,2.0
+1674,"Lavington, Dagoretti North",150000.0,4.0,4.0,4.0
+1675,other,150000.0,325.0,3.0,2.0
+1676,other,150000.0,3.0,3.0,2.0
+1677,"Lavington, Dagoretti North",150000.0,3.0,3.0,3.0
+1678,"Kilimani, Dagoretti North",150000.0,2.0,2.0,2.0
+1679,"Kileleshwa, Dagoretti North",150000.0,3.0,3.0,3.0
+1680,"Westlands Area, Westlands",150000.0,2.0,2.0,2.0
+1681,"General Mathenge, Westlands",155000.0,4.0,4.0,4.0
+1682,"Parklands, Westlands",155000.0,2.0,2.0,2.0
+1683,"Brookside, Westlands",155000.0,3.0,3.0,5.0
+1684,other,155000.0,4.0,4.0,4.0
+1685,"Brookside, Westlands",155000.0,3.0,3.0,5.0
+1686,"Riverside Drive, Riverside, Westlands",155000.0,2950.0,3.0,5.0
+1687,"Westlands Area, Westlands",158000.0,4.0,4.0,3.0
+1688,other,160000.0,24.0,4.0,3.0
+1689,other,160000.0,16.0,2.0,2.0
+1690,other,160000.0,1.0,1.0,1.0
+1691,"Lavington, Dagoretti North",160000.0,4.0,4.0,2.0
+1692,"kilimani, Kilimani, Kilimani, Dagoretti North",160000.0,4.0,4.0,4.0
+1693,"Lavington, Dagoretti North",160000.0,4.0,4.0,4.0
+1694,other,160000.0,4.0,4.0,3.0
+1695,other,160000.0,3.0,3.0,3.0
+1696,"General Mathenge, Westlands",160000.0,280.0,3.0,3.0
+1697,"Westlands Area, Westlands",160000.0,3.0,3.0,2.0
+1698,"Westlands Area, Westlands",160000.0,2.0,2.0,2.0
+1699,"General Mathenge, Westlands",160000.0,280.0,3.0,3.0
+1700,"Westlands Area, Westlands",160000.0,3.0,3.0,2.0
+1701,"Westlands Area, Westlands",160000.0,2.0,2.0,2.0
+1702,other,160000.0,3.0,3.0,2.0
+1703,other,160000.0,2.0,2.0,2.0
+1704,other,160000.0,3.0,3.0,3.0
+1705,"Westlands Area, Westlands",160000.0,3.0,3.0,2.0
+1706,"General Mathenge, Westlands",160000.0,3.0,3.0,4.0
+1707,"Rhapta Road, Westlands",160000.0,1.0,1.0,2.0
+1708,other,160000.0,220.0,3.0,3.0
+1709,other,160000.0,3.0,3.0,3.0
+1710,other,160000.0,4.0,4.0,4.0
+1711,other,160000.0,3.0,3.0,3.0
+1712,other,160000.0,3.0,3.0,3.0
+1713,other,160000.0,130.0,2.0,1.0
+1714,"Riverside, Westlands",160000.0,3.0,3.0,3.0
+1715,"Kileleshwa, Dagoretti North",160000.0,2.0,2.0,2.0
+1716,"Brookside, Westlands",160000.0,4.0,4.0,4.0
+1717,other,160000.0,3.0,3.0,2.0
+1718,other,160000.0,3.0,3.0,2.0
+1719,"General Mathenge, Westlands",160000.0,3.0,3.0,5.0
+1720,other,160000.0,344.0,4.0,4.0
+1721,"General Mathenge, Westlands",160000.0,16.0,2.0,3.0
+1722,other,160000.0,23.0,3.0,3.0
+1723,other,160000.0,23.0,3.0,3.0
+1724,other,160000.0,2.0,2.0,2.0
+1725,"Riverside, Westlands",160000.0,3.0,3.0,4.0
+1726,other,160000.0,3.0,3.0,2.0
+1727,other,160000.0,2.0,2.0,3.0
+1728,"Westlands Area, Westlands",160000.0,2000.0,1.0,1.0
+1729,other,160000.0,2.0,2.0,3.0
+1730,"Westlands Area, Westlands",160000.0,2000.0,1.0,1.0
+1731,"Westlands Area, Westlands",160000.0,20000.0,2.0,2.0
+1732,"Riverside, Westlands",160000.0,3.0,3.0,3.0
+1733,"Kileleshwa, Dagoretti North",160000.0,2.0,2.0,3.0
+1734,other,160000.0,250.0,4.0,4.0
+1735,other,160000.0,260.0,4.0,5.0
+1736,"Lavington, Dagoretti North",160000.0,2.0,2.0,2.0
+1737,"Parklands, Westlands",160000.0,3.0,3.0,4.0
+1738,other,160000.0,4.0,4.0,6.0
+1739,"Kilimani, Dagoretti North",160000.0,3.0,3.0,4.0
+1740,other,160000.0,23.0,3.0,3.0
+1741,other,160000.0,24.0,4.0,4.0
+1742,other,160000.0,3.0,3.0,2.0
+1743,"Riverside, Westlands",160000.0,3.0,3.0,4.0
+1744,"kilimani, Kilimani, Kilimani, Dagoretti North",160000.0,3.0,3.0,3.0
+1745,other,160000.0,232.0,4.0,5.0
+1746,other,160000.0,4.0,4.0,4.0
+1747,"Westlands Area, Westlands",160000.0,2.0,2.0,2.0
+1748,other,160000.0,2.0,2.0,2.0
+1749,other,160000.0,3.0,3.0,2.0
+1750,"Riverside, Westlands",160000.0,3.0,3.0,4.0
+1751,other,160000.0,260.0,3.0,4.0
+1752,other,160000.0,4.0,4.0,4.0
+1753,other,160000.0,3.0,3.0,4.0
+1754,"Kilimani, Dagoretti North",160000.0,2.0,2.0,2.0
+1755,other,160000.0,186.0,4.0,2.0
+1756,"Westlands Area, Westlands",160000.0,2.0,2.0,2.0
+1757,"Waiyaki Way, Westlands",160000.0,1.0,1.0,2.0
+1758,other,160000.0,4645.0,3.0,2.0
+1759,"Brookside, Westlands",160000.0,3.0,3.0,4.0
+1760,other,165000.0,24.0,3.0,3.0
+1761,"Rhapta Road, Westlands",165000.0,3.0,3.0,3.0
+1762,other,165000.0,230.0,3.0,4.0
+1763,other,165000.0,4.0,4.0,4.0
+1764,"Parklands, Westlands",165000.0,4.0,4.0,2.0
+1765,"General Mathenge, Westlands",165000.0,3.0,3.0,3.0
+1766,other,165000.0,2800.0,3.0,4.0
+1767,other,165000.0,260.0,3.0,2.0
+1768,other,165000.0,260.0,3.0,4.0
+1769,"Westlands Area, Westlands",165000.0,4.0,4.0,3.0
+1770,"Brookside, Westlands",165000.0,4.0,4.0,3.0
+1771,other,165000.0,2.0,2.0,2.0
+1772,"Kilimani, Dagoretti North",165000.0,3.0,3.0,3.0
+1773,"Lavington, Dagoretti North",165000.0,2.0,2.0,2.0
+1774,other,165000.0,2.0,2.0,3.0
+1775,other,170000.0,3.0,3.0,3.0
+1776,other,170000.0,23.0,3.0,3.0
+1777,other,170000.0,28.0,3.0,4.0
+1778,other,170000.0,23.0,3.0,3.0
+1779,other,170000.0,150.0,2.0,2.0
+1780,other,170000.0,175.0,3.0,3.0
+1781,other,170000.0,3.0,3.0,3.0
+1782,other,170000.0,3.0,3.0,4.0
+1783,"Parklands, Westlands",170000.0,3.0,3.0,3.0
+1784,other,170000.0,3.0,3.0,3.0
+1785,other,170000.0,3.0,3.0,3.0
+1786,other,170000.0,3.0,3.0,3.0
+1787,other,170000.0,250.0,4.0,5.0
+1788,other,170000.0,230.0,3.0,4.0
+1789,other,170000.0,12.0,2.0,2.0
+1790,other,170000.0,20.0,3.0,3.0
+1791,other,170000.0,186.0,3.0,3.0
+1792,other,170000.0,2.0,2.0,2.0
+1793,other,170000.0,18.0,2.0,3.0
+1794,other,170000.0,3.0,3.0,4.0
+1795,"Parklands, Westlands",170000.0,2.0,2.0,2.0
+1796,"General Mathenge, Westlands",170000.0,2.0,2.0,3.0
+1797,other,170000.0,1.0,1.0,2.0
+1798,"Kilimani, Dagoretti North",170000.0,2.0,2.0,2.0
+1799,"Kilimani, Dagoretti North",170000.0,3.0,3.0,3.0
+1800,other,170000.0,4047.0,3.0,2.0
+1801,other,170000.0,2.0,2.0,2.0
+1802,other,170000.0,23.0,3.0,3.0
+1803,"Kilimani, Dagoretti North",170000.0,300.0,5.0,6.0
+1804,"Riverside, Westlands",170000.0,3.0,3.0,3.0
+1805,other,170000.0,4.0,4.0,3.0
+1806,"Kilimani, Dagoretti North",170000.0,1.0,1.0,1.0
+1807,"Westlands Area, Westlands",170000.0,3.0,3.0,3.0
+1808,other,170000.0,270.0,3.0,4.0
+1809,other,170000.0,279.0,4.0,2.0
+1810,"General Mathenge, Westlands",170000.0,3.0,3.0,4.0
+1811,other,170000.0,3.0,3.0,2.0
+1812,"Riverside, Westlands",170000.0,3.0,3.0,4.0
+1813,"Kilimani, Dagoretti North",170000.0,2.0,2.0,2.0
+1814,"Kilimani, Dagoretti North",172000.0,3.0,3.0,4.0
+1815,"Parklands, Westlands",172000.0,4.0,4.0,4.0
+1816,other,175000.0,280.0,3.0,2.0
+1817,"General Mathenge, Westlands",175000.0,3.0,3.0,2.0
+1818,"General Mathenge, Westlands",175000.0,3.0,3.0,4.0
+1819,other,175000.0,4.0,4.0,4.0
+1820,"General Mathenge, Westlands",175000.0,4.0,4.0,2.0
+1821,"Kilimani, Dagoretti North",175000.0,2.0,2.0,2.0
+1822,"Parklands, Westlands",175000.0,3.0,3.0,3.0
+1823,"General Mathenge, Westlands",175000.0,4.0,4.0,4.0
+1824,other,175000.0,4.0,4.0,5.0
+1825,"General Mathenge, Westlands",175000.0,3.0,3.0,3.0
+1826,other,175000.0,279.0,3.0,3.0
+1827,"General Mathenge, Westlands",175000.0,3.0,3.0,3.0
+1828,other,175000.0,4.0,4.0,4.0
+1829,other,175000.0,4.0,4.0,4.0
+1830,other,175000.0,150.0,2.0,2.0
+1831,other,180000.0,2.0,2.0,2.0
+1832,other,180000.0,3.0,3.0,3.0
+1833,other,180000.0,3.0,3.0,2.0
+1834,other,180000.0,13.0,2.0,2.0
+1835,other,180000.0,4.0,4.0,4.0
+1836,other,180000.0,3.0,3.0,3.0
+1837,"Kilimani, Dagoretti North",180000.0,3.0,3.0,3.0
+1838,other,180000.0,4.0,4.0,4.0
+1839,"Westlands Area, Westlands",180000.0,1.0,1.0,2.0
+1840,other,180000.0,2.0,2.0,2.0
+1841,other,180000.0,3.0,3.0,3.0
+1842,"Brookside, Westlands",180000.0,3.0,3.0,4.0
+1843,other,180000.0,3.0,3.0,2.0
+1844,other,180000.0,2.0,2.0,2.0
+1845,"Kileleshwa, Dagoretti North",180000.0,4.0,4.0,5.0
+1846,"Westlands Area, Westlands",180000.0,4.0,4.0,4.0
+1847,"Kilimani, Dagoretti North",180000.0,2.0,2.0,2.0
